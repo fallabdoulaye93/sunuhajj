@@ -1,0 +1,158 @@
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ diaw ** omar ** parcelle ** diaw@gmail.com ** +221769008070 ** 20190930102607.jpeg ** 2 ] ** 37 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Moussa ** Ndiaye ** ndiaye@gmail.com ** 772148634 ** mbao ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Moussa ** Ndiaye ** ndiaye@gmail.com ** 772148634 ** mbao ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ omar ** diaw ** diaw@gmail.com ** +221769008070 ** parcelle ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ omar ** diaw ** diaw@gmail.com ** +221769008070 ** parcelle ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Babacar ** Diouf ** diouf@gmail.com ** +221776204034 ** mbour ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ sayfou DK ** Rouge ** Tata ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ sayfou DK ** Rouge ** Poids leger ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ omaO ** Diaw ** diaw@gmail.com ** +221769008070 ** parcelle ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ omaO ** Diaw ** diaw@gmail.com ** +221769008070 ** parcelle ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ] valeur : [ Diaw ** Omar ** parcelle ** parcelle ** +221769008070 ** 20190930102607.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge ** Tata noire ** 2019-09-30 12:06:44 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge fgf ** Tata ** 2019-09-30 12:07:19 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tatadddd ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge ** Tata ** 2019-09-30 12:08:36 ] ** 0 ** 0 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diaw ** Omar ** parcelle ** parcelle ** +221769008070 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge ** Tataddd ** 2019-09-30 12:12:33 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge ** Tatadfdf ** 2019-09-30 12:16:33 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** fdTata ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata Fatou ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:40:07 ** 1 ** 20190930124337.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:43:37 ** 1 ** 20190930124357.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:44:24 ** 1 ** 20190930124518.jpeg ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:46:05 ** 1 ** 20190930124626.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata Fatou ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:46:52 ** 1 ** 20190930124719.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:47:19 ** 1 ** 20190930125241.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:53:23 ** 1 ** 20190930125347.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 12:52:42 ** 1 ** 20190930125459.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata Fatou ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata Fatou ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-6896 ** Rouge ** Tata Fatouhjfgjh ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:02:40 ** 1 ** 20190930131336.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:13:36 ** 1 **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:13:52 ** 1 ** 20190930131409.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:14:09 ** 1 ** 20190930132251.jpeg ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:14:09 ** 1 ** 20190930132600.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:14:09 ** 1 ** 20190930132625.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:26:25 ** 1 **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 13:26:38 ** 1 ** 20190930132657.png ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-3432 ** Orange ** Bus ** 20190930143626.jpeg ] ** 24 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 22 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 14:43:55 ** 1 ** 20190930144806.jpeg ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 14:48:07 ** 1 ** 20190930144826.jpeg ] ** 0 ** 1 ** 1
+delete ** employe ** champ : [ id =  ] valeur : [ 37 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ fall ** khadim ** almadie ** almadie)à ** 771111111111 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-5743 ** Rouge ** Bus PL ** 20190930144951.jpeg ] ** 25 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus PL ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ khadim ** fall ** fall@gmail.com ** 771013504 ** almadie ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus ff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:02:23 ** 1 ** 20190930150240.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ khadim ** fall ** fall@gmail.com ** 771013504 ** Almadie ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 776235847 ** yoff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus fff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 776235847 ** Yoff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 706235847 ** Yoff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ abdou ** Ndiaye ** ndiaye@gmail.com ** 768472568 ** Thiaroye ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ khadim ** fall ** fall@gmail.com ** 771013504 ** Almadies ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakouu ** gakou@gmail.com ** 706235847 ** Yoff ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 706235847 ** Yoff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-3432 ** Orange ** Bus  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-5743 ** Rouge ** Bus PL ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Abdou ** Ndiaye ** ndiaye@gmail.com ** 768472568 ** Thiaroye ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:31:03 ** 1 ** 20190930153134.png ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 706235847 ** Yoffa ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:32:18 ** 1 ** 20190930153343.jpeg ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 706235847 ** Yoff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-3432 ** Orange ** Bus  ** 2019-09-30 15:38:36 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-3432 ** Orange ** Bus Fatou Test ** 2019-09-30 15:38:44 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-3432 ** Orange ** Bus Fatou Test ** 2019-09-30 15:43:59 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Coumba ** Gakou ** gakou@gmail.com ** 706235800 ** Yoff ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-3432 ** Orange ** Bus Fatou  ** 2019-09-30 15:44:08 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ khadim ** Fall ** fall@gmail.com ** 771013504 ** Almadies ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Fatou ** Dioum ** dioum@gmail.com ** 762513484 ** Pikine ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:56:51 ** 1 ** 20190930155709.jpeg ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:57:41 ** 1 ** 20190930155802.jpeg ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Fally ** Pape ** fally@gmail.com ** 78305241 ** keur massar ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-30 15:59:56 ** 1 ** 20190930160009.jpeg ] ** 0 ** 1 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ Tata ] ** 0 ** 0 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ] valeur : [ Ndiaye ** Moussa ** mbao ** mbao ** 772148634 **  ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Gakou ** Coumba ** Yoff ** Yoff ** 706235800 ] ** 0 ** 1 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ ghf ] ** 0 ** 0 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ fff ] ** 0 ** 0 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ fgfg ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ categorie ] valeur : [ fgfg ] ** 26 ** 1 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ fgfg ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ categorie ] valeur : [ fgfg ] ** 27 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 26 ] ** 0 ** 1 ** 1
+insert ** categorie ** champ : [ categorie ] valeur : [ ty ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ categorie ] valeur : [ ty ] ** 28 ** 1 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [ tyug ] ** 2 ** 1 ** 1
+insert ** bus ** champ : [ libelle ] valeur : [ tyug ] ** 0 ** 0 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [ Dem Dikk ] ** 3 ** 1 ** 1
+insert ** bus ** champ : [ libelle ] valeur : [ Dem Dikk ] ** 0 ** 0 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [ Tata ] ** 4 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1

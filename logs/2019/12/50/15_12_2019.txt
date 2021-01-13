@@ -1,0 +1,25 @@
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-1212-BH ** Gris ** 67 ** 5 ** 20191215152031.png ** 30 ] ** 84 ** 1 ** 42
+update ** devices ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+delete ** devices ** champ : [ rowid =  ] valeur : [ 2 ] ** 0 ** 1 ** 42
+delete ** devices ** champ : [ rowid =  ] valeur : [ 8 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat ] valeur : [ MQ== ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 2 ] ** 0 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ** user_creation ] valeur : [ Demo ** Admin ** boubacar.fofana@numherit.com ** +221774638642 ** adminNTA ** 1 ** 78be7778205cc9292379fb53c8cc6b5e37da97d1 ** 20191215192153.png ** 1 ] ** 54 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ fe758316a2234937dd18a8862d358a4b59dd62c8 ** 1 ** 2019-12-15 19:24:08 ] ** 0 ** 1 ** 54
+update ** categorie ** champ : [ libelle ] valeur : [ NTA 50 Places BUS ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** affectation_bus ** champ : [ bus_id ** receveur_id ** device_id ** date_debut ** date_fin ** etat ** gie ** user_creation ** date_creation ] valeur : [ 84 ** 11 ** 1 ** 15-12-2019 ** 31-12-2019 ** 1 ** 30 ** 42 ** 2019-12-15 21:39:23 ] ** 1 ** 1 ** 42
+insert ** affectation_bus ** champ : [ bus_id ** receveur_id ** device_id ** date_debut ** date_fin ** etat ** gie ** user_creation ** date_creation ] valeur : [ 84 ** 11 ** 1 ** 15-12-2019 ** 31-12-2019 ** 1 ** 30 ** 42 ** 2019-12-15 21:41:09 ] ** 2 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** gie ** user_creation ** date_creation ] valeur : [ 10 ** Terminus Ouakam ** Sphére ministétiel ** 5 ** 150 ** 300 ** 30 ** 42 ** 2019-12-15 22:13:25 ] ** 27 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** gie ** user_creation ** date_creation ] valeur : [ 10 ** Terminus Ouakam ** Sphére ministétiel ** 5 ** 150 ** 300 ** 30 ** 42 ** 2019-12-15 22:17:47 ] ** 1 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 84 ** 13 ** 11 ** 4 ** 1 ** 2019-12-16 ** 1 ** 30 ** NTA56715502019 ** 2 ** 42 ** 2019-12-15 23:08:28 ] ** 25 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** gie ** password ** photo ** type ** user_creation ] valeur : [ Demo ** NTA ** idparentikoom1@numherit.com **  ** demoR ** 11 ** 30 ** cce1bf49438b78f0ca5ecbf7ab200ac3400e5d6f **  ** 3 ** 42 ] ** 55 ** 1 ** 42
+update ** devices ** champ : [ etat =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** affectation_bus ** champ : [ bus_id ** receveur_id ** device_id ** date_debut ** date_fin ** etat ** gie ** user_creation ** date_creation ] valeur : [ 70 ** 55 ** 2 ** 2019-12-15 ** 2019-12-15 ** 1 ** 30 ** 42 ** 2019-12-15 23:40:57 ] ** 3 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** gie ** user_creation ** date_creation ] valeur : [ 4 ** GAYE TOWN ** NEW KRU TOWN ** 2 ** 100 ** 250 ** 30 ** 42 ** 2019-12-15 23:47:06 ] ** 2 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 84 ** 13 ** 11 ** 4 ** 2 ** 2019-12-15 ** 1 ** 30 ** NTA42715502019 ** 2 ** 42 ** 2019-12-15 23:51:23 ] ** 2 ** 1 ** 42

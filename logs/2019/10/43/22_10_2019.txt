@@ -1,0 +1,2 @@
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42

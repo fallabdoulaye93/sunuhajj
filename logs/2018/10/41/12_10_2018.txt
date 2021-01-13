@@ -1,0 +1,22 @@
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$mI4QaYbDvvttmAQfHPC84eZpLJHd0y/LNZV8I2TiFL1WZkd7ex9SC ** 1539340567 ] ** 0 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$.TAOEYm5CTG.tBKVJ7UDGuwYz6YdKPD51t05q7AKAHmzVyLvoXqki ** 1539344833 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$jyyYZ8Vm5o22G18wW5DlFuMwt.10WqcXzcPPlaQqlnCG2kMIMD.ri ** 1539350951 ] ** 0 ** 1 ** 
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aa **  **  ] ** 1 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ bb **  **  ] ** 2 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 3 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 4 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ dd **  **  ] ** 5 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 6 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 7 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ dd **  **  ] ** 8 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 9 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ aaa **  **  ] ** 10 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ dd **  **  ] ** 11 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ param1 ** 1 **  ] ** 12 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ param2 ** 1 **  ] ** 13 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ dd ** 1 **  ] ** 14 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ Array ** 2 **  ] ** 15 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ Array ** 2 **  ] ** 16 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ Array ** 2 **  ] ** 17 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ - ** 2 **  ] ** 18 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ Array ** 2 **  ] ** 19 ** 1 ** 1

@@ -1,0 +1,27 @@
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ test ** Saifoulaye ** keur massar ** test@gmail.com ** +221959555 ** 20191016105201.jpeg ** 2 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 36
+delete ** bus ** champ : [ id =  ] valeur : [ 64 ] ** 0 ** 1 ** 36
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** numGIE ** photo ] valeur : [ RC-35454 ** Bleu ** 20 ** 5 ** 28 ** 20191016120703.jpeg ] ** 68 ** 1 ** 36
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ] valeur : [ test ** test ** te@gmail.com ** +22177 ] ** 0 ** 0 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ] valeur : [ GIE1 ** Diamnadio ** gie1@gmail.com ** +22177358 ] ** 30 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** user_creation ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com **  ** saifon ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 30 ** 20191016145823.jpeg ** 1 ] ** 41 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:01:05 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:01:27 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:02:20 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ a94a8fe5ccb19ba61c4c0873d391e987982fbbd3 ** 1 ** 2019-10-16 15:02:37 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:03:42 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:33:23 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:33:41 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 15:34:47 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 19c2a0dbd8e3a41b25d504744c57df8853e36677 ** 1 ** 2019-10-16 15:54:47 ] ** 0 ** 1 ** 
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-16 16:02:51 ] ** 0 ** 1 ** 41
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ] valeur : [ GIE2 ** keur massar ** di@g.com ** +22177 ] ** 31 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ DK-546 ** mauve ** 10 ** 3 ** 20191016170036.png ] ** 0 ** 0 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ RC-77358 ** bleu ciel ** 10 ** 3 ** 20191016170240.jpeg ] ** 0 ** 0 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ RC-77358 ** Rouge ** 10 ** 3 ** 20191016170501.jpeg ] ** 0 ** 0 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ RC-77358 ** test ** 10 ** 1 ** 20191016171509.jpeg ** 30 ] ** 80 ** 1 ** 41

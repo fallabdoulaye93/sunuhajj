@@ -1,0 +1,3 @@
+insert ** sva_messenger ** champ : [ expediteur ** txt_messenger ** fk_module ** 2d3d851b3579ad5eca42931f8 ** user_creation ] valeur : [ Mansour TINE ** Bonjour !!! ** 5 ** $2y$10$mgKAbGrsRdU4531KYQc6geaLMZZM2oddRU07ovuTso71E4IeRoNSq ** 1 ] ** 0 ** 0 ** 1
+insert ** sva_messenger ** champ : [ expediteur ** txt_messenger ** fk_module ** 2d3d851b3579ad5eca42931f8 ** user_creation ] valeur : [ Mansour TINE ** Bonjour !!! ** 4 ** $2y$10$mgKAbGrsRdU4531KYQc6geaLMZZM2oddRU07ovuTso71E4IeRoNSq ** 1 ] ** 0 ** 0 ** 1
+insert ** sva_messenger ** champ : [ expediteur ** txt_messenger ** fk_module ** 2d3d851b3579ad5eca42931f8 ** user_creation ] valeur : [ Mansour TINE ** Bonjour !!! ** 1 ** $2y$10$mgKAbGrsRdU4531KYQc6geaLMZZM2oddRU07ovuTso71E4IeRoNSq ** 1 ] ** 0 ** 0 ** 1

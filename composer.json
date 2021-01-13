@@ -1,0 +1,25 @@
+{
+  "name": "sunuframework/sunuframework",
+  "description": "Framework de developpement",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "NUMHERIT SA",
+      "email": "dev@numherit.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "spipu/html2pdf": "v5.0.1",
+    "phpmailer/phpmailer": "v6.0.3",
+    "phpoffice/phpspreadsheet": "1.2.0",
+    "jacwright/restserver": "v1.2.0",
+    "guzzlehttp/guzzle": "^6.3",
+    "recaptcha-lib/recaptcha": "v0.1.3"
+  }
+}

@@ -1,0 +1,4 @@
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ 86 ** 8 ** 9 ** 4 ** 2 ** 20-11-2019 ** 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ 86 ** 8 ** 9 ** 4 ** 2 ** 2019-11-20 ** 1 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** 221776213541 ** Ouakam ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** 772103145 ** Ouakam ] ** 0 ** 1 ** 42

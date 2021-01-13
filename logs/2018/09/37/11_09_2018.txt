@@ -1,0 +1,15 @@
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ] valeur : [ max ** dieng ** max@numh.com ** +22178399492 ** maxdieng ** 1 ** ecca0149b282183cd1e4746bb0ddbc2688130644 ** 20180911095003.jpg ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** +22187989238 ** 1 ** 1 ** 2018-09-11 09:53:13 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** +221775898923 ** bayedame ** 1 ** 790e66a8d403c4f6d8e7fc2c2dac53a1ac04d299 ** 20180911100442.png ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** +221775898923 ** 1 ** 1 ** 2018-09-11 10:32:06 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ id_utilisateur ** date_modification ** user_modification ** photo ] valeur : [ MA== ** 2018-09-11 10:51:27 ** 1 ** 20180911105205.png ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 10:55:27 ** 1 **  ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 10:55:38 ** 1 ** 20180911105604.png ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 11:04:38 ** 1 ** 20180911110454.png ] ** 0 ** 1 ** 1
+insert ** sva_categorie_service ** champ : [ label ** user_creation ** date_creation ] valeur : [ Rechargement ** 1 ** 2018-09-11 13:19:13 ] ** 0 ** 1 ** 1
+insert ** sva_service_sunusva ** champ : [ label ** user_creation ** date_creation ** fk_categorie ] valeur : [ Test Service ** 1 ** 2018-09-11 13:19:27 ** 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 14:58:52 ** 1 ** 20180911145924.png ] ** 0 ** 1 ** 1
+update ** sva_service_sunusva ** champ : [ date_modification ** user_modification ** montant_deb ** montant_fin ] valeur : [ 2018-09-11 15:53:27 ** 1 **  **  ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 16:31:04 ** 1 **  ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 16:33:28 ** 1 ** 20180911163417.png ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-11 16:34:26 ** 1 ** 20180911163447.png ] ** 0 ** 1 ** 1

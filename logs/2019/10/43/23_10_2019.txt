@@ -1,0 +1,52 @@
+insert ** type_materiel ** champ : [ libelle ** numGie ] valeur : [ hbvj ** 30 ] ** 4 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ** rowid ] valeur : [ ordinateur **  ] ** 0 ** 1 ** 42
+insert ** materiel ** champ : [ type ** marque ** photo ** numGie ] valeur : [ 1 ** Samsung J6 ** 20191023122921.jpeg ** 30 ] ** 3 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ] valeur : [ ordinateur ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ libelle ] valeur : [ telephone ] ** 0 ** 1 ** 42
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 0 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** materiel ** champ : [ rowid =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ** etat ] valeur : [ Telephone ** 1 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ id ** etat ] valeur : [ MQ== ** 1 ] ** 0 ** 0 ** 42
+update ** type_materiel ** champ : [ id ** etat ] valeur : [  ** 1 ] ** 0 ** 0 ** 42
+update ** materiel ** champ : [ type ** marque ** id ] valeur : [ 1 ** Samsung J6dfdf ** Mw== ] ** 0 ** 0 ** 41
+update ** materiel ** champ : [ type ** marque ** id ] valeur : [ 1 ** Samsung J6dfdf ** Mw== ] ** 0 ** 0 ** 41
+update ** materiel ** champ : [ type ** marque ] valeur : [ 1 ** Samsung J6ff ] ** 0 ** 0 ** 41
+update ** type_materiel ** champ : [ libelle ** etat ] valeur : [ Telephone ** 0 ] ** 0 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+delete ** type_materiel ** champ : [ rowid =  ] valeur : [ 4 ] ** 0 ** 1 ** 42
+insert ** type_materiel ** champ : [ libelle ** numGie ] valeur : [ Ordinateur ** 30 ] ** 5 ** 1 ** 42
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** bus ** champ : [ matricule ** couleur ** places ** categorie ] valeur : [ DK-1001-BL ** Blanctest ** 72 ** 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ** id ] valeur : [ 3 ** Samsung J6 ** Mw== ] ** 0 ** 0 ** 41
+update ** materiel ** champ : [ type ** marque ] valeur : [ 2 ** Samsung J6 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ] valeur : [ 3 ** Samsung J6 ] ** 0 ** 1 ** 41
+insert ** materiel ** champ : [ type ** marque ** photo ** numGie ] valeur : [ 5 ** hp ** 20191023143657.jpeg ** 30 ] ** 4 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ] valeur : [ 1 ** Samsung J6 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ** date_modification ] valeur : [ 1 ** Samsung J6 ** 2019-10-23 15:04:05 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ** date_modification ] valeur : [ 1 ** Samsung J6 n ** 2019-10-23 15:04:24 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ** date_modification ] valeur : [ 1 ** Samsung J6  ** 2019-10-23 15:05:08 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ marque ** type ** date_modification ] valeur : [ hp ** 5 ** 2019-10-23 15:17:08 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:38:22 ** 41 ** 20191023153837.jpeg ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:38:37 ** 41 ** 20191023153851.jpeg ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 72 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:42:19 ** 41 ** 20191023154402.png ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:48:53 ** 41 ** 20191023154908.png ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:49:08 ** 41 ** 20191023155100.jpeg ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-23 15:52:07 ** 41 ** 20191023155221.png ] ** 0 ** 1 ** 41
+delete ** affectation_materiel ** champ : [ receveur_rowid= ] valeur : [  ] ** 0 ** 1 ** 42

@@ -1,0 +1,24 @@
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 3 ** 01-10-2019 ** 05-11-2019 ** 31 ] ** 0 ** 0 ** 1
+insert ** materiel ** champ : [ type ** marque ** numIdentification ** photo ** numGie ] valeur : [ 2 ** samsung ** 6321450 ** 20191024154849.jpeg ** 30 ] ** 6 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 4 ** 18-10-2019 ** 31-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 4 ** 03-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 6 ** 01-10-2019 ** 13-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 6 ** 10-10-2019 ** 27-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 6 ** 11-10-2019 ** 26-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 6 ** 03-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 4 ** 11-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+update ** module ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 4 ** 11-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** module ** champ : [ libelle ] valeur : [ Car ] ** 6 ** 1 ** 41
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 4 ** 11-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 4 ** 11-10-2019 ** 18-10-2019 ** 30 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 3 ** 11-10-2019 ** 27-10-2019 ** 30 ] ** 4 ** 1 ** 42
+update ** module ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 4 ** 2019-10-18 ** 2019-10-27 ** 30 ] ** 5 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** droit ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** affectation_materiel ** champ : [ rowid =  ] valeur : [ 4 ] ** 0 ** 1 ** 42
+delete ** affectation_materiel ** champ : [ rowid =  ] valeur : [ 5 ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 10 ** 5 ** 2019-10-03 ** 2019-10-20 ** 30 ] ** 6 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42

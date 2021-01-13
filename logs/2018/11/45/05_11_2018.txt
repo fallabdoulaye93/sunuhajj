@@ -1,0 +1,4 @@
+insert ** sva_pays ** champ : [ label ** d0fadfb10f78b03ca2d4970d5 ** user_creation ] valeur : [ Guinée ** $2y$09$C0ad68U6nfjKwYbzzBKmD.AkNc4ubvQVpnBoK0C8cWzlHScWFafNm ** 1 ] ** 0 ** 0 ** 1
+insert ** sva_pays ** champ : [ label ** d0fadfb10f78b03ca2d4970d5 ** user_creation ] valeur : [ Guinée ** $2y$09$C0ad68U6nfjKwYbzzBKmD.AkNc4ubvQVpnBoK0C8cWzlHScWFafNm ** 1 ] ** 0 ** 0 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ** user_creation ] valeur : [ NDIOUGA ** dieng ** ndiouga@numherit.com ** +221775228576 ** nddie ** 1 ** 2e6dbf541093ac3692f1249b078e48d8b8d46205 ** 20181105121928.jpeg ** 1 ] ** 13 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 3ae52f9bffc2909cf5ea8342c244c12416e397ca ** 1 ** 2018-11-05 12:20:45 ] ** 0 ** 1 ** 13

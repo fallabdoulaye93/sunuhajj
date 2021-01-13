@@ -1,0 +1,14 @@
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [ 1 ** 10 ** 2 ** 2000 ** 100 ** 2018-10-08 11:55:24 ** 481781882879291 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [ 1 ** 10 ** 2 ** 2000 ** 100 ** 2018-10-08 11:58:16 ** 706040083716624 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [ 1 ** 10 ** 2 ** 2000 ** 100 ** 2018-10-08 12:36:24 ** 561945164978916 ** Erreur serveur rapido ** 1 **  ] ** 458 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [ 1 ** 10 ** 2 ** 2000 ** 100 ** 2018-10-08 12:41:27 ** 608734259052494 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 

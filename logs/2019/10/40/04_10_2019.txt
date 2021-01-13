@@ -1,0 +1,1 @@
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-04 12:09:11 ** 1 ** 20191004120939.jpeg ] ** 0 ** 1 ** 1

@@ -1,0 +1,38 @@
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ] valeur : [ fgf ** dfg ** di@g.com ** 77632 ] ** 5 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ] valeur : [ test ** gg ** gg ** ff ] ** 6 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 6 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** telephone ] valeur : [ Dialloo ** diallomalick@gmail ** 783012014 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ fgf ** dfg ** di@g.com ** 77632 ** bus1.jpeg ] ** 7 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Dialloo ** dfg ** di@g.com ** 77632 ** bus.png ] ** 8 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 3 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 8 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 5 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 4 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diallo ** Saifoulay ** di ** 77358 ** im.jpeg ] ** 9 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diouf ** Babs ** ba@numherit.com ** 772 ** bus.png ] ** 10 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** telephone ] valeur : [ Diallo ** saifoulayediallo@numherit.com ** 77358 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** telephone ] valeur : [ Diouf ** ba@numherit.com ** 772 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diouf ** Fatou ** fatou@numherit.com ** 777 ** 20191009132636.jpeg ] ** 11 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Dialloo ** Babs ** di@g.com ** 77632 ** bus1.jpeg ] ** 12 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ test ** test ** test ** 772 ** im.jpeg ] ** 13 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ testtest ** testtest ** test ** 77632 ** bus.png ] ** 14 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 9 ] ** 0 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 14 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ test ** test ** test ** 77632 ** bus1.jpeg ] ** 15 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ dfd ** testestesetest ** di@g.com ** 77632 ** bus.png ] ** 16 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ testesttest ** testtesttesttesttesttest ** di@g.com ** 77632 ** 20191009153807.jpeg ] ** 17 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 17 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ test ** testtest ** test ** 77122 ** bus.png ] ** 18 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 18 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ test ** test ** test ** 789 ** 20191009160113.png ] ** 19 ** 1 ** 1
+update ** responsableGie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ testdfdfdf ** test ** test ** 789 ** 2019-10-09 17:08:17 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ test ** test ** test ** 789 ** 2019-10-09 17:09:16 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diallo ** Malick ** malick@numherit.com ** 77 ** 20191009172253.jpeg ] ** 20 ** 1 ** 1

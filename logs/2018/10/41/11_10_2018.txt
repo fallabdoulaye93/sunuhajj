@@ -1,0 +1,3 @@
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ** user_creation ] valeur : [ 10 ** 2 ** 1 ** 50 ** 25 ** 25 ** 2018-10-11 12:18:21 ** 1 ] ** 1 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$nUyQ33YDcVSAonBBpT1b6eJ92Heqa8nxEGLi4iJNcdHMDkQT3uvee ** 1539273409 ] ** 0 ** 1 ** 1

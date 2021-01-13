@@ -1,0 +1,22 @@
+insert ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ** gie ** user_creation ] valeur : [ 565757 ** mmfd ** fdfdd ** dfdffd@dfdf.com ** +23177879797 ** 30 ** 42 ] ** 2 ** 1 ** 42
+insert ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ** gie ** user_creation ] valeur : [ 6547545775 ** Malick ** diallo ** malick.diallo@numherit.com ** +231687797979 ** 30 ** 42 ] ** 3 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 84 ** 8 ** 11 ** 4 ** 1 ** 2019-12-17 ** 1 ** 30 ** NTA48317512019 ** 2 ** 42 ** 2019-12-17 13:07:26 ] ** 5 ** 1 ** 42
+insert ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ** gie ** user_creation ] valeur : [ 201010032212002 ** dddd ** dddd ** dfdffd@dfdf.com ** +23144444444 ** 30 ** 42 ] ** 4 ** 1 ** 42
+update ** carte ** champ : [ client =   ] valeur : [ 4 ] ** 0 ** 1 ** 42
+insert ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ** gie ** user_creation ] valeur : [ 201010032212003 ** madiop ** gueye ** madiop@numherit.com ** +23177878799797 ** 30 ** 42 ] ** 5 ** 1 ** 42
+update ** carte ** champ : [ client =   ** user_creation =   ] valeur : [ 5 ** 42 ] ** 0 ** 1 ** 42
+delete ** client ** champ : [ id =  ] valeur : [ 4 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 2 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 2 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ numcarte ** prenom ** nom ** email ** telephone ] valeur : [ 201010032212003 ** madiop ** gueye ** madiop@numherit.com ** +23177878799797 ] ** 0 ** 0 ** 42
+delete ** client ** champ : [ id = ] valeur : [  ] ** 0 ** 1 ** 42
+delete ** client ** champ : [ id = ] valeur : [  ] ** 0 ** 1 ** 42
+delete ** client ** champ : [ id = ] valeur : [ 5 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ champs ] valeur : [ Array ] ** 0 ** 0 ** 42
+update ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ] valeur : [ 201010032212001 ** Malick ** diallo ** malick.diallo@numherit.com ** +231687797979 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ] valeur : [ 201010032212001 ** Malick ** diallo ** malick.diallo@numherit.com ** +231687797979 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ] valeur : [ 201010032212001 ** Malickkkk ** diallo ** malick.diallo@numherit.com ** +231687797979 ] ** 0 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 84 ** 8 ** 11 ** 4 ** 1 ** 2019-12-17 ** 1 ** 30 ** NTA71917512019 ** 2 ** 42 ** 2019-12-17 21:43:49 ] ** 6 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 2 ] ** 0 ** 1 ** 42

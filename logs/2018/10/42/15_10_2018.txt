@@ -1,0 +1,22 @@
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$AM8pBu8K/FTaiYz8F1ymOucGxbHvNU7TbVJ1imQHAphTTllS3CRV2 ** 1539599060 ] ** 0 ** 1 ** 
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ - ** 2 **  ] ** 20 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$OXYfvwg/ViSkeFuMZIqq6.Q49i0rqSqr7gPUpIe2cQ5lhGs2Pb2TO ** 1539608670 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$1I/6qnGW2w7AeMP2nhzFROZkLKmr8DDqKYbUFEi5N9a3bAWy.K/zG ** 1539608716 ] ** 0 ** 1 ** 
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ hhhhh-dese-- ** 2 **  ] ** 21 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ nnfifj-secv- ** 2 **  ] ** 22 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ login-pwd- ** 2 **  ] ** 23 ** 1 ** 1
+insert ** sva_erreur_webservice ** champ : [ user_creation ** date_creation ** code ** message_fr ** message_en ** fk_service ] valeur : [ 1 ** 2018-10-15 12:20:41 ** 0 ** Consultation Solde Rapido réussie ** Get Rapido Account succesfull ** 9 ] ** 5 ** 1 ** 1
+update ** sva_erreur_webservice ** champ : [ date_modification ** user_modification ** code ** message_fr ** message_en ] valeur : [ 2018-10-15 12:25:17 ** 1 ** 1002 ** Echec Consultation Solde Rapido ** Get Rapido Account failled ] ** 0 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$tIcFn9w6efiW9FM15U3LOeI9ZU9G47yFpdERvngkSWHXOi1IiWoTq ** 1539611773 ] ** 0 ** 1 ** 
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ NaN-login-password-idmarchand- ** 4 **  ] ** 24 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$NgpDihnA.M6EwmFV9wU8/e4apNEbLiahj1FueHn7udXog5L6Cv10K ** 1539612979 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$0ZPhyjFiW2zuRacxgmEZqOaLqKZ7X/.xn8PHu.p017a5bBvfa9kXW ** 1539619592 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$rAFynr/El/VP3rMasF/b0e7LwMAKj0kEvC6BTkY3g5OfD0768.yM. ** 1539619653 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$7fyXE.Ukh1AUl1EIgC2uC.vJK2fSyfidJncUnjl262l8.2sNKxjES ** 1539620051 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$SXKsckYN/xEfsXqRvgzfKe6WPOHCaG0RMy3lpZUf4QLP81D9bO4Vm ** 1539621131 ] ** 0 ** 1 ** 
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 2000 ** 10000 ** 500 ** 2 ] ** 13 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 10001 ** 25000 ** 1000 ** 2 ] ** 14 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 25001 ** 50000 ** 1500 ** 2 ] ** 15 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$eRWRejLoFChNOEE2c6Tb/OApBc24QXUpAG7VBwmD0GfVOcPGUqIrO ** 1539625478 ] ** 0 ** 1 ** 
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ** user_creation ] valeur : [ 3 ** 2 ** 1 ** 30 ** 40 ** 30 ** 2018-10-15 16:47:28 ** 1 ] ** 2 ** 1 ** 1

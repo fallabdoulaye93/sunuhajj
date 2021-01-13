@@ -1,0 +1,22 @@
+insert ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ receveur **  ] ** 11 ** 1 ** 1
+insert ** utlisateur u ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** gie ** type ] valeur : [ Sarr ** Modou ** Diamalaye ** mbaye@gmail.com ** +2212315646 ** 20191030121218.jpeg ** 30 ** 3 ] ** 0 ** 0 ** 42
+insert ** utlisateur u ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** gie ** type ] valeur : [ Diallo ** Saifoulaye ** Quakam ** mbaye@gmail.com ** +645123 ** 20191030121238.jpeg ** 30 ** 3 ] ** 0 ** 0 ** 42
+insert ** utilisateur u ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** gie ** type ] valeur : [ Samb ** Faty ** HLM ** mbaye@gmail.com ** +22158955121 ** 20191030122012.jpeg ** 30 ** 3 ] ** 0 ** 0 ** 42
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 1d0bd2c52fb19731cc79b7dcf4399f686674311b ** 1 ** 2019-10-30 13:26:00 ] ** 0 ** 1 ** 
+delete ** receveur ** champ : [ id =  ] valeur : [ 5 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Assane ** Wade ** wade@numherit.com ** wadecom ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdksf ] ** 0 ** 1 ** 42
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 10 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ fk_profil ] valeur : [ 11 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ fk_profil ] valeur : [ 11 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** +2217772100000 ** 5 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Assanes ** Wade ** wade@numherit.com ** +2217734567 ** 6 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@gmail.com ** +2217772148723 ** 5 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Baye Damegxbyrtu ** KHOUMA ** dame.khouma@numherit.com ** +2217772148723 ** 5 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@gmailcom ** +2217772148723 ** 5 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Assane ** Wade ** wade@numherit.comvjkjn ** +22177345670000 ** 6 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ] valeur : [ Assane ** Wade ** wade@numherit.com ** +22177345670000 ** 11 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Assanes ** Wade ** wade@numherit.com ** +22177345670000 ** wadecom ** 11 ** 2019-10-30 16:41:28 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Assane ** Wade ** wade@numherit.com ** +22177345670000 ** wadecom ** 11 ** 2019-10-30 16:42:06 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** user_creation ] valeur : [ Malick ** Diallo ** stagiaire.dev6@numherit.com ** +22177 ** lickMA ** 7c4a8d09ca3762af61e59520943dc26494f8941b ** 1 ** 30 ** 20191030165103.jpeg ** 1 ] ** 45 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** user_creation ] valeur : [ Malick ** Diallo ** stagiaire.dev6@numherit.com ** +22177 ** lickMA ** 7c4a8d09ca3762af61e59520943dc26494f8941b ** 1 ** 30 ** 20191030165419.jpeg ** 1 ] ** 46 ** 1 ** 1

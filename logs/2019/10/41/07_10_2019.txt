@@ -1,0 +1,37 @@
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admin ** 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admin ** 4 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admin ** 2 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouge ** 3 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu ** 5 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougef **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouges **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** Rouge **  ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ libelle ] valeur : [ Tata D ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougeq **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougeg **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougec **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougec **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu ** 3 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouged **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleucc **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouges **  ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougec **  ] ** 0 ** 0 ** 1
+update ** categorie ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougecc **  ] ** 0 ** 0 ** 1
+update ** categorie ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougeff ** 1 ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouged ** 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouged ** 1 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ DK-547 ** Bleu ** 12 ** 1 ** im.jpeg ] ** 59 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouger **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-547 ** Bleufg ** 3 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rougef **  ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** Bleufg ** 3 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleuvv ** 3 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu ** 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouged **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-546 ** Rouge **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dd-7653 ** bleu **  ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ 10 ** Rouge ** 6 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ 1010 ** Rouge Test ** 3 ** 2019-10-07 13:29:16 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-10 ** Rouge Test ** 5 ] ** 0 ** 1 ** 1

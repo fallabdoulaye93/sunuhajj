@@ -1,0 +1,36 @@
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ Diallo ** Malicks ** malick@numherit.com ** 77 ** 2019-10-11 09:56:48 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ Diallo ** Malick ** malick@numherit.com ** 77 ** 2019-10-11 09:58:00 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-11 10:09:45 ** 1 ** 20191011101307.jpeg ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-11 10:13:46 ** 1 **  ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-11 10:15:07 ** 1 ** 20191011101522.jpeg ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Dialloo ** dfg ** di@g.com ** 772 ** 20191011101640.jpeg ] ** 21 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ Dialloo ** dfg ** di@g.com ** 772ff ** 2019-10-11 10:17:14 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** date_modification ] valeur : [ Dialloo ** dfgtest ** di@g.com ** 772 ** 2019-10-11 10:17:35 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Dialloo ** dfg ** di@g.com **  ** 20191011103951.jpeg ] ** 22 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Dialloo ** dfg ** di@g.com ** +22177dvdfd ** 20191011103957.jpeg ] ** 23 ** 1 ** 1
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 22 ] ** 0 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diallo ** Saifoulaye ** malick@numherit.com ** +221773581654 ** 20191011105213.jpeg ] ** 24 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Barry ** Khadija ** malick@numherit.com ** +221773581654 ** 20191011105510.jpeg ] ** 25 ** 1 ** 1
+insert ** responsableGie ** champ : [ nom ** prenom ** email ** telephone ** photo ] valeur : [ Diallo ** Saifoulaye **  ** +221773581654 ** 20191011110209.jpeg ] ** 26 ** 1 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 26 ] ** 19 ** 1 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ Fatou  ** Pikine ** di@g.com ** +22177 ** 27 ] ** 20 ** 1 ** 1
+update ** responsableGie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** gie ** champ : [ id =  ] valeur : [ 20 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 20 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 20 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 20 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [  **  **  **  ** 20 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [  **  **  **  ** 27 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 20 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77358 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darounffff ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darouncvcv ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darounf ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darounrr ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darounffff ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nom ** adresse ** prenom ** telephone ] valeur : [ Darounfff ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ] valeur : [ dddDaroun ** Ouakam ** di@g.com ** 77632 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** di@g.com ** 77632 ** 20 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1

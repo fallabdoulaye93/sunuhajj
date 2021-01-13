@@ -1,0 +1,43 @@
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 13:51:56 ] ** 1 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 14:07:08 ] ** 2 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 14:07:08 ] ** 3 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 14:09:52 ] ** 4 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 14:09:52 ] ** 5 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 14:36:40 ] ** 6 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 14:36:40 ] ** 7 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 14:37:24 ] ** 8 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 14:37:24 ] ** 9 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 14:38:37 ] ** 10 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 **  **  **  ** 2018-10-10 14:38:37 ] ** 11 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 40 ** 20 ** 40 ** 2018-10-10 15:30:56 ] ** 1 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [  ** 1 ** 1 ** 50 ** 25 ** 25 ** 2018-10-10 15:37:07 ] ** 524 ** 0 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 2 ** 1 **  **  **  ** 2018-10-10 16:42:12 ] ** 1 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 7 ** 1 ** 1 **  **  **  ** 2018-10-10 16:45:57 ] ** 1 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 2 ** 1 ** 0 ** 20 ** 80 ** 2018-10-10 17:23:10 ] ** 1 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 2 ** 1 ** 0 ** 20 ** 80 ** 2018-10-10 17:24:12 ] ** 2 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 2 ** 1 ** 60 ** 10 ** 30 ** 2018-10-10 17:24:12 ] ** 3 ** 1 ** 1
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 1 ** 1 ** 1 ** 10 ** 30 ** 60 ** 2018-10-10 17:44:20 ] ** 4 ** 1 ** 1
+insert ** sva_souscription_paretenaire ** champ : [ fk_service ** fk_partenaire ** etat ** pourcentage_partenaire ** pourcentage_sva ** pourcentage_fournisseur ** date_souscription ] valeur : [ 10 ** 1 ** 1 ** 50 ** 20 ** 30 ** 2018-10-10 17:44:20 ] ** 5 ** 1 ** 1

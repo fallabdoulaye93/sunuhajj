@@ -1,0 +1,38 @@
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** ADIE ** +221338358126 ** contact@adie.sn ** adie ** Technopole ** $2y$09$37mUOOQP94e7krM3cTWAeucRcx5/VACgo2u7GJB9ZDg4OboxxEriC ] ** 9 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 9 ] ** 5 ** 1 ** 1
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** TTS ** +221339873621 ** tts@contact.sn ** ttservice ** Localhost ** c3de519e43834c2ab3f53e199bee0a4ded265e48 ] ** 10 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 10 ] ** 6 ** 1 ** 1
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** ManouTech ** +221338892471 ** mansour.tine@numherit.com ** manou ** NF ** b8019853aee1c044bd943e1759272ac73e9d8d07 ] ** 11 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 11 ] ** 7 ** 1 ** 1
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** BDK ** +221338261728 ** dama.khouma@numherit.com ** dame ** Soprime ** 00b122f8428da380e0a30f04ca9e038332ad6e8e ] ** 12 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 12 ] ** 8 ** 1 ** 1
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** BDK Technologie ** +221338251715 ** dame.khouma@numherit.com ** bdk ** Soprime ** 0134d360abd0e75f3fca0f2bfe476b647a0fc419 ] ** 13 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 13 ] ** 9 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** damekhouma@numherit.com ** 0022178986575 ** 1 ** 1 ** 2018-10-23 11:40:06 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ** user_creation ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** +2217772148723 ** bdk ** 5 ** 180d89efda37b824b375965639faecc2725cb83f ** 20181023114414.jpg ** 1 ] ** 12 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 6f216733e26029394fabb0b6fa918bd3fe7758d4 ** 1 ** 2018-10-23 11:44:41 ] ** 0 ** 1 ** 12
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-10-23 11:45:54 ** 1 ** 20181023114641.jpg ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-10-23 11:46:42 ** 1 ** 20181023114712.png ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-10-23 13:33:04 ** 1 ** 20181023133322.png ] ** 0 ** 1 ** 1
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** La POSTE SENEGAL ** +221774119645 ** ibrahima.fall@numherit.com ** poste ** Dakar SENEGAL ** e550d4abc05f5523cc592a16ee595c27a196ecdc ] ** 14 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 14 ] ** 10 ** 1 ** 1
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 10210 ] ** 0 ** 1 ** 
+update ** sva_compte_operation ** champ : [ solde = solde + ] valeur : [ 10000 ] ** 0 ** 1 ** 
+update ** sva_compte_fournisseur ** champ : [ solde = solde + ] valeur : [ 90 ] ** 0 ** 1 ** 
+update ** sva_compte_commission ** champ : [ solde = solde + ] valeur : [ 120 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 10210 ] ** 0 ** 1 ** 
+update ** sva_compte_operation ** champ : [ solde = solde + ] valeur : [ 10000 ] ** 0 ** 1 ** 
+update ** sva_compte_fournisseur ** champ : [ solde = solde + ] valeur : [ 90 ] ** 0 ** 1 ** 
+update ** sva_compte_commission ** champ : [ solde = solde + ] valeur : [ 120 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 10210 ] ** 0 ** 1 ** 
+update ** sva_compte_operation ** champ : [ solde = solde + ] valeur : [ 10000 ] ** 0 ** 1 ** 
+update ** sva_compte_fournisseur ** champ : [ solde = solde + ] valeur : [ 90 ] ** 0 ** 1 ** 
+update ** sva_compte_commission ** champ : [ solde = solde + ] valeur : [ 120 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 10210 ] ** 0 ** 1 ** 
+update ** sva_compte_operation ** champ : [ solde = solde + ] valeur : [ 10000 ] ** 0 ** 1 ** 
+update ** sva_compte_fournisseur ** champ : [ solde = solde + ] valeur : [ 90 ] ** 0 ** 1 ** 
+update ** sva_compte_commission ** champ : [ solde = solde + ] valeur : [ 120 ] ** 0 ** 1 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 10210 ] ** 0 ** 1 ** 
+update ** sva_compte_operation ** champ : [ solde = solde + ] valeur : [ 10000 ] ** 0 ** 1 ** 
+update ** sva_compte_fournisseur ** champ : [ solde = solde + ] valeur : [ 90 ] ** 0 ** 1 ** 
+update ** sva_compte_commission ** champ : [ solde = solde + ] valeur : [ 120 ] ** 0 ** 1 ** 

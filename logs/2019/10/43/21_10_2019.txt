@@ -1,0 +1,36 @@
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ test ** test1 ** Pikine ** test1@gmail.com ** +22177 ** 20191021112054.jpeg ** 30 ] ** 3 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 3 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test1 ** test ** ouakam ** test@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ test ** test ** Pikine ** test@gmail.com ** +22177 ** 20191021114019.jpeg ** 30 ] ** 4 ** 1 ** 41
+update ** receveur ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ test1testphoto ** test ** test@gmail.com ** 22177 ** Pikine ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ test11111 ** test ** test@gmail.com ** 22177 ** Pikine ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Fatou ** Dioum ** fatou@numherit.com ** 22177 ** Pikine ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-21 12:33:29 ** 41 ** 20191021123350.png ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 73 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 81 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 8 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 69 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 75 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-546 ** Blanc ** 72 ** 3 ** 20191021124918.jpeg ** 30 ] ** 83 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 79 ] ** 0 ** 1 ** 41
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** user_creation ] valeur : [ Fatou ** Dioum ** fatou@numherit.com ** +22177358 ** fatou ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 30 ** 20191021170947.jpeg ** 1 ] ** 42 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-21 17:10:20 ] ** 0 ** 1 ** 42

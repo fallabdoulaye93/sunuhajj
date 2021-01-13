@@ -1,0 +1,1 @@
+delete ** sva_api ** champ : [ rowid =  ] valeur : [ 1 ] ** 0 ** 1 ** 1

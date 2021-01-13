@@ -1,0 +1,1 @@
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 7be9091852f7c0b8863ffe553 ] valeur : [ test ** 4 ** reporting ** listerTest ** $2y$09$aoeaWYHJHrq6mmRD6T/m3ecraId2bA9FHe45DHtIPC4l165DymKVy ] ** 0 ** 0 ** 1

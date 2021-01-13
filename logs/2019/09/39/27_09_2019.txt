@@ -1,0 +1,47 @@
+update ** bus ** champ : [ matricule ] valeur : [ blancfgfg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ bleuggg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ blanc ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ blanc ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-546 ** test ] ** 14 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ D test ** blanc ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ RC-77358 ** bleu ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 10 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 9 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 6 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Dioum ** Fatou ** pikine ** pikine ** 762513484 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Dioum ** Fatou ** pikine ** dioum@gmail.com ** 762513484 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** profil ] valeur : [ Gueye ** Fama ** thiaroye ** gueye@gmail.com ** 779002050 ** 1 ] ** 31 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** profil ] valeur : [ Sow ** Mbaye ** keur massar ** mbaye@gmail.com ** 706405380 ** 3 ] ** 32 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ pape ** Fally ** keur massar ** keur darou ** 78305241 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ pape ** Fally ** keur massar ** fally@gmail.com ** 78305241 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 13 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-587 ** noir ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Sow ** Mbaye ** Diamalaye ** mbaye@gmail.com ** 706405380 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** damekhouma@numherit.com ** 0022178986575 ** 1 ** 1 ** 2019-09-27 12:40:39 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-27 12:42:16 ** 1 **  ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ photo ** matricule ** couleur ] valeur : [ bus.png **  **  ] ** 16 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 16 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ photo ** matricule ** couleur ] valeur : [ bus.png ** DK-545 ** Rouge ] ** 17 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ** user_creation ] valeur : [ dfg ** fgf ** diallosaifoulaye65@yahoo.com ** +221 773581654 ** dfdfdf ** 1 ** ac545e338e8320bc7dbe50f0d7b9bba00b7e7f72 ** 20190927131439.png ** 1 ] ** 14 ** 1 ** 1
+insert ** bus ** champ : [ photo ** matricule ** couleur ] valeur : [ bus.png ** RC-3581 ** Rouge ] ** 18 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 15 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ photo ** matricule ** couleur ] valeur : [ bus.png ** BUS-354 ** Rouge ] ** 19 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** profil ] valeur : [ Sarr ** astou ** HLM ** sarr@gmail.com ** tof1.jpeg ** 773000010 ** 1 ] ** 33 ** 1 ** 1
+insert ** bus ** champ : [ photo ** matricule ** couleur ] valeur : [ bus.png ** DK-Test ** Verte ] ** 20 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** photo ] valeur : [ sayfou DK49 ** Rouge ** 20190927164705.png ] ** 21 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-09-27 16:47:26 **  ** 20190927164950.jpeg ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-258 ** Rougebab ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ diouf ** babacar ** mbour ** diouf@gmail.com ** +221776204034 ** 20190927165749.jpeg ** 1 ] ** 34 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ sayfou DK ** Rouge ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ BUS-354 ** Rougerout ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ Diallo ** Modou ** guediawaye ** diallo@gmail.com ** +221786003080 ** 20190927171917.jpeg ** 1 ] ** 35 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-300test ** rouge ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 20 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-6896 ** Rouge ** Tata ** 20190927173114.png ] ** 22 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ RC-77358 ** Rouge ** Poids loud ** 20190927173442.png ] ** 23 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** date_modification ] valeur : [ RC-77358 ** Rougeriri ** 2019-09-27 17:35:03 ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ gakou ** coumba ** yoff ** gakou@gmail.com ** 776235847 ** 20190927174058.jpeg ** 2 ] ** 36 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ DK-6896 ** Rouge ** Tatatt ** 2019-09-27 18:03:21 ] ** 0 ** 0 ** 1

@@ -1,0 +1,15 @@
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 1 ** 42 ** 1222 ** 1222 ** 20022 ] ** 8 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 1222 ] ** 2439 ** 0 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 42 ** 100 ** 100 ** 100 ] ** 9 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 100 ] ** 2441 ** 0 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 42 ** 100 ** 100 ** 100 ] ** 10 ** 1 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 42 ** 100 ** 100 ** 100 ] ** 11 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 100 ] ** 0 ** 1 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 42 ** 200 ** 200 ** 300 ] ** 12 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 200 ] ** 0 ** 1 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 203256455047741 ** 300 ** 300 ** 600 ] ** 13 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 300 ] ** 0 ** 1 ** 42
+insert ** histo_rechargement ** champ : [ user_id ** carte_id ** date_transac ** num_transac ** montant ** solde_avant ** solde_apres ] valeur : [ 42 ** 2 ** 2019-12-19 02:59:49 ** 469994037686547 ** 200 ** 600 ** 800 ] ** 14 ** 1 ** 42
+update ** carte ** champ : [ solde = solde +   ] valeur : [ 200 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 2 ] ** 0 ** 1 ** 

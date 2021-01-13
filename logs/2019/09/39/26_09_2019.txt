@@ -1,0 +1,61 @@
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ dtgyfdh ** wdgh g ** wgdsx ** &lt;swfgv ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** profil ** champ : [ matricule ** couleur ] valeur : [ test ** dlfj ] ** 0 ** 0 ** 1
+insert ** profil ** champ : [ matricule ** couleur ** etat ** categorie ] valeur : [ mdfkl ** mlklmk ** mlklm ** mlk ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** etat ** categorie ] valeur : [ djkf ** lkjk ** lkjk ** kljk ] ** 10 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-258 ** Rouge ] ** 11 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** c1a6239575ce06999da737ade ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ** $2y$10$1gH/i5Lc79khaVQe9xeey.kVhaK3l8SXCHsy739NcryyxuoOCQZNi ] ** 0 ** 0 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ] ** 27 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ] ** 28 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ] ** 29 ** 1 ** 1
+update ** profil ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** profil ] valeur : [ Ndiaye ** dragon ** guediawaye ** diallo@gmail.com ** 775623145 ** 1 ] ** 30 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ] valeur : [ DK-546 ** Vert ] ** 12 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo ** 773002010 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Quakam ** diallo@gmail.com ** 773002010 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ diop ** Omar ** parcelle ** parcelle ** 772005834 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Fally ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Fally ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Fally ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ] valeur : [ RC-35454 ** Blanc ] ** 13 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ Blanc ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Fally ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Aida ** Faty ** parcelle ** parcelle ** 786982453 ] ** 0 ** 1 ** 1
+delete ** employe ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ noirkuhjk ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ Rouge ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ Blanc ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ Blanc ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ noirkljdjkdjf ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ Blanc ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ test ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ rosezzz ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ test ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ test ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ test ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ] valeur : [ noir ] ** 0 ** 1 ** 1

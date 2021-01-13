@@ -1,0 +1,8 @@
+insert ** client ** champ : [ prenom ** nom ** email ** telephone ** gie ** user_creation ** date_creation ** profession ** etat ** adresse ] valeur : [ Souleymane ** FAYE ** papa.ngom@numherit.com ** +221774246535 ** 30 ** 42 ** 2019-12-22 19:11:47 ** 1 ** 0 **  ] ** 3 ** 1 ** 42
+insert ** client ** champ : [ prenom ** nom ** email ** telephone ** gie ** user_creation ** date_creation ** profession ** etat ** adresse ] valeur : [ Souleymane ** FAYE ** papa.ngom@numherit.com ** +221774246535 ** 30 ** 42 ** 2019-12-22 19:12:13 ** 1 ** 0 **  ] ** 4 ** 1 ** 42
+insert ** client ** champ : [ prenom ** nom ** email ** telephone ** gie ** user_creation ** date_creation ** profession ** etat ** adresse ] valeur : [ Souleymane ** FAYE ** papa.ngom@numherit.com ** +221774246535 ** 30 ** 42 ** 2019-12-22 19:15:39 ** 1 ** 0 **  ] ** 5 ** 1 ** 42
+update ** carte ** champ : [ client =  ** user_creation =  ] valeur : [ 5 ** 42 ] ** 0 ** 1 ** 42
+insert ** client ** champ : [ prenom ** nom ** email ** telephone ** gie ** user_creation ** date_creation ** profession ** etat ** adresse ] valeur : [ Souleymane ** FAYE ** papa.ngom@numherit.com ** 00221774246535 ** 30 ** 42 ** 2019-12-22 19:20:15 ** 1 ** 0 **  ] ** 3 ** 1 ** 42
+update ** carte ** champ : [ client =  ** statut =  ** user_creation =  ] valeur : [ 3 ** 1 ** 42 ] ** 0 ** 1 ** 42
+insert ** client ** champ : [ prenom ** nom ** email ** telephone ** gie ** user_creation ** date_creation ** profession ** etat ** adresse ] valeur : [ Cartes ** Lancement ** papa.ngom@numherit.com ** 00221774246535 ** 30 ** 42 ** 2019-12-22 21:50:56 ** 1 ** 0 **  ] ** 4 ** 1 ** 42
+update ** carte ** champ : [ client =  ** statut =  ** user_creation =  ] valeur : [ 4 ** 1 ** 42 ] ** 0 ** 1 ** 42

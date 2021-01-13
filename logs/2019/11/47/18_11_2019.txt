@@ -1,0 +1,83 @@
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+delete ** materiel ** champ : [ rowid =  ] valeur : [ 7 ] ** 0 ** 1 ** 41
+insert ** materiel ** champ : [ type ** marque ** numIdentification ** photo ** numGie ] valeur : [ 2 ** Test ** 1474 ** 20191118114232.jpeg ** 30 ] ** 8 ** 1 ** 41
+delete ** materiel ** champ : [ rowid =  ] valeur : [ 8 ] ** 0 ** 1 ** 41
+insert ** materiel ** champ : [ type ** marque ** numIdentification ** photo ** numGie ] valeur : [ 3 ** hp ** 147 ** 20191118114428.jpeg ** 30 ] ** 9 ** 1 ** 41
+delete ** materiel ** champ : [ rowid =  ] valeur : [ 4 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ type ** marque ] valeur : [ 2 **  ] ** 0 ** 1 ** 41
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 3 ** 5 ** 2019-11-19 ** 2019-11-20 ** 30 ** 1 ] ** 16 ** 1 ** 41
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+delete ** affectation_materiel ** champ : [ rowid =  ] valeur : [ 16 ] ** 0 ** 1 ** 41
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 5 ** 9 ** 2019-11-13 ** 2019-11-19 ** 30 ** 1 ] ** 17 ** 1 ** 41
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 11 **  ** 2019-11-13 ** 2019-11-20 ** 30 ** 1 ] ** 18 ** 1 ** 41
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** affectation_materiel ** champ : [ rowid =  ] valeur : [ 17 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ] valeur : [  ** Terminus Parcelles Assainies ** Terminus Palais 11 ** 8 ** 50 ** 100 ] ** 0 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 1 ** Kharkov ** Terminus Palais 1 ** 5 ** 11 ** 111 ** 30 ] ** 22 ** 1 ** 41
+delete ** trajet ** champ : [ id =  ] valeur : [ 22 ] ** 0 ** 1 ** 41
+delete ** trajet ** champ : [ id =  ] valeur : [ 4 ] ** 0 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 23 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 24 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 25 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 26 ** 1 ** 41
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ] valeur : [  ** Guediawaye ** Marche Sam ** 10 ** 50 ** 300 ] ** 0 ** 1 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 83 **  **  **  **  ** 2019-11-19 ** 30 ] ** 23 ** 1 ** 41
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 83 ** 8 ** 5 ** 4 ** 1 ** 2019-11-19 ** 30 ] ** 24 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** ligne ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+delete ** ligne ** champ : [ id =  ] valeur : [ 5 ] ** 0 ** 1 ** 41
+delete ** ligne ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 41
+insert ** ligne ** champ : [ libelle ] valeur : [  ] ** 6 ** 1 ** 41
+update ** ticket ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** ticket ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** ticket ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ** numGIE ] valeur : [  **  ** 2019-11-13 ** 30 ] ** 12 ** 1 ** 41
+update ** ticket ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ** numGIE ] valeur : [  **  ** 2019-11-12 ** 30 ] ** 13 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ date_modification ** user_modification ** raison_sociale ** telephone ** email ** adresse ] valeur : [ 2019-11-18 16:03:45 ** 41 ** ADIE1 ** +221 33 835 81 26 ** contact@adie.sn ** Technopole ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ date_modification ** user_modification ** raison_sociale ** telephone ** email ** adresse ] valeur : [ 2019-11-18 16:04:49 ** 41 ** ADIE ** +221 33 835 81 26 ** contact@adie.sn ** Technopole ] ** 0 ** 1 ** 41
+update ** sva_partenaire ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41

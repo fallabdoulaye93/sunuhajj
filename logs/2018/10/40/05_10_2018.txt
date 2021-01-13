@@ -1,0 +1,15 @@
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_code_retour ** champ : [ user_creation ** code ** message_fr ** message_en ** fk_webservice ] valeur : [ 1 ** 0 ** Liste Pays affichée avec succès ** Country billing successful ** 2 ] ** 2 ** 1 ** 1
+update ** sva_webservice ** champ : [ date_modification ** user_modification ** label ] valeur : [ 2018-10-05 12:05:07 ** 1 ** Another test ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ date_modification ** user_modification ** label ** fk_api ] valeur : [ 2018-10-05 12:08:47 ** 1 ** Another test ** MQ== ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ date_modification ** user_modification ** label ** fk_api ] valeur : [ 2018-10-05 12:14:21 ** 1 ** Web Service testiii ** MQ== ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ date_modification ** user_modification ** label ] valeur : [ 2018-10-05 12:18:59 ** 1 ** Another test ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ date_modification ** user_modification ** label ] valeur : [ 2018-10-05 12:21:04 ** 1 ** Web Service test ] ** 0 ** 1 ** 1
+insert ** sva_webservice ** champ : [ user_creation ** label ** fk_api ] valeur : [ 1 ** SOAP ** 5 ] ** 3 ** 1 ** 1
+insert ** sva_webservice ** champ : [ user_creation ** label ] valeur : [ 1 ** REST ] ** 4 ** 1 ** 1
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [  ** 10 ** 2 ** 2000 ** 100 ** 2018-10-05 15:44:57 ** 401815605400519 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [  ** 10 ** 2 ** 2000 ** 100 ** 2018-10-05 15:46:38 ** 200409053811231 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [  ** 10 ** 2 ** 2000 ** 100 ** 2018-10-05 16:05:56 ** 128695529195926 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 
+update ** sva_compte_partenaire ** champ : [ solde = solde - ] valeur : [ 2000 ] ** 0 ** 1 ** 
+insert ** sva_transaction ** champ : [ fk_user_partenaire ** fk_service ** fk_partenaire ** montant ** commission ** date_transaction ** num_transaction ** commentaire ** statut ** retour_service ] valeur : [ 1 ** 10 ** 2 ** 2000 ** 100 ** 2018-10-05 16:29:18 ** 158713909171437 ** Erreur serveur rapido ** 1 **  ] ** 0 ** 0 ** 

@@ -1,0 +1,2 @@
+insert ** sva_partenaire ** champ : [ user_creation ** raison_sociale ** telephone ** email ** login ** adresse ** password ] valeur : [ 1 ** Hijab Mode ** +221338245821 ** mariama.boye@numherit.com ** hijab_admin ** Sacré Coeur ** 22d3723a3bf62fd521437eb078987b26b37027f3 ] ** 15 ** 1 ** 1
+insert ** sva_compte_partenaire ** champ : [ solde ** fk_partenaire ] valeur : [ 0 ** 15 ] ** 11 ** 1 ** 1

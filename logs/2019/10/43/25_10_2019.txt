@@ -1,0 +1,99 @@
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** affecte ] valeur : [ 8 ** 6 ** 2019-11-09 ** 2019-11-24 ** 30 ** 1 ] ** 0 ** 0 ** 42
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** affecte ] valeur : [ 8 ** 6 ** 2019-11-07 ** 2019-11-22 ** 30 ** 1 ] ** 0 ** 0 ** 42
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ Ajout droit ** 1 ** Ajout droit ** ajoutDroit ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+update ** droit ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel a ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** affecte ] valeur : [ 8 ** 6 ** 2019-11-07 ** 2019-11-15 ** 30 ** 1 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel a ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** affecte ] valeur : [ 10 ** 6 ** 2019-11-09 ** 2019-11-22 ** 30 ** 1 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 9 ** 6 ** 2019-11-15 ** 2019-11-30 ** 30 ] ** 7 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+update ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ Ajout droit ** 1 ** Administration ** ajoutDroits ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** 1 ** test ** test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+insert ** droit ** champ : [ droit ** fk_module ** controller ** action ] valeur : [ test ** 1 ** test ** test ] ** 7 ** 1 ** 1
+insert ** module ** champ : [ libelle ] valeur : [ test ] ** 7 ** 1 ** 1
+update ** module ** champ : [ libelle ] valeur : [ testt ] ** 0 ** 1 ** 1
+update ** sva_pays ** champ : [ date_modification ** user_modification ** label ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ 2019-10-25 11:17:14 ** 1 ** Bénins ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 1
+update ** sva_pays ** champ : [ date_modification ** user_modification ** label ] valeur : [ 2019-10-25 11:18:06 ** 1 ** Bénins ] ** 0 ** 1 ** 1
+update ** sva_pays ** champ : [ date_modification ** user_modification ** label ] valeur : [ 2019-10-25 11:18:19 ** 1 ** Bénin ] ** 0 ** 1 ** 1
+update ** sva_pays ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_pays ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 8 ** 5 ** 2019-11-01 ** 2019-11-30 ** 31 ] ** 8 ** 1 ** 1
+insert ** sva_pays ** champ : [ label ** 85dd9aff15b1fece1cf504ce8 ** user_creation ] valeur : [ test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ** 41 ] ** 0 ** 0 ** 41
+insert ** sva_pays ** champ : [ label ** 85dd9aff15b1fece1cf504ce8 ** user_creation ] valeur : [ test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ** 41 ] ** 0 ** 0 ** 41
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ] valeur : [ 8 ** 5 ** 2019-11-01 ** 2019-11-30 ** 31 ] ** 9 ** 1 ** 1
+insert ** sva_pays ** champ : [ label ** 85dd9aff15b1fece1cf504ce8 ** user_creation ] valeur : [ test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ** 41 ] ** 0 ** 0 ** 41
+insert ** sva_pays ** champ : [ label ** user_creation ] valeur : [ test ** 1 ] ** 15 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** affecte ] valeur : [ 10 ** 5 ** 2019-11-16 ** 2019-11-30 ** 31 ** 1 ] ** 0 ** 0 ** 1
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+insert ** typeprofil ** champ : [ libelle ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ Car ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 41
+insert ** typeprofil ** champ : [ libelle ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 41
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 9 ** 6 ** 2019-11-16 **  ** 31 ** 1 ] ** 10 ** 1 ** 1
+insert ** typeprofil ** champ : [ libelle ** 85dd9aff15b1fece1cf504ce8 ] valeur : [ test ** $2y$10$GIt6O.sLtGwctJ6pjQNhnu8Vu4ur41DMKXdRxl6EIDE/flcDOSMIm ] ** 0 ** 0 ** 41
+update ** trajet ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** module ** champ : [ libelle ] valeur : [ test ] ** 8 ** 1 ** 1
+insert ** typeprofil ** champ : [ libelle ] valeur : [ test ] ** 5 ** 1 ** 1
+update ** typeprofil ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** typeprofil ** champ : [ libelle ] valeur : [ Direction commerciales ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 9 ** 5 ** 2019-11-30 **  ** 31 ** 1 ] ** 11 ** 1 ** 1
+insert ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 1902 ** 0 ** 1
+update ** typeprofil ** champ : [ libelle ] valeur : [ Direction commerciales ] ** 0 ** 1 ** 1
+update ** typeprofil ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 8 ** 6 ** 2019-11-09 **  ** 31 ** 1 ] ** 12 ** 1 ** 1
+insert ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 1906 ** 0 ** 1
+update ** typeprofil ** champ : [ libelle ] valeur : [ Direction commerciale ] ** 0 ** 1 ** 1
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 30 ] ** 4 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 30 ] ** 0 ** 0 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 30 ] ** 0 ** 0 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 30 ] ** 0 ** 0 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 30 ] ** 0 ** 0 ** 42
+insert ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ test ** 1 ] ** 9 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admins ** 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admins ** 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ tests ** 2 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ tests ** 1 ] ** 0 ** 1 ** 1
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ] valeur : [ 23 ** Terminus Parcelles Assainies ** Terminus Palais 1 ** 8 ** 50 ** 100 ] ** 0 ** 1 ** 42
+update ** droit ** champ : [ droit ** fk_module ** controller ** action ] valeur : [ Ajout droits ** 1 ** Administration ** ajoutDroit ] ** 0 ** 1 ** 1
+update ** droit ** champ : [ droit ** fk_module ** controller ** action ] valeur : [ Ajout droit ** 1 ** Administration ** ajoutDroit ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ tests ** 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Test ** 1 ] ** 0 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ tests ** 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 8 ** 6 ** 2019-11-09 **  ** 31 ** 1 ] ** 13 ** 1 ** 1
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 8 ** 6 ** 2019-11-09 **  ** 31 ** 1 ] ** 14 ** 1 ** 1
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ tests ** 1 ] ** 10 ** 1 ** 1
+delete ** affectation_droit ** champ : [ fk_profil =  ] valeur : [ 10 ] ** 0 ** 1 ** 1
+insert ** affectation_droit ** champ : [ fk_droit ** fk_profil ** etat ** user_creation ** date_creation ] valeur : [ 1 ** 10 ** 1 ** 1 ** 2019-10-25 12:32:39 ] ** 3 ** 1 ** 1
+insert ** affectation_droit ** champ : [ fk_droit ** fk_profil ** etat ** user_creation ** date_creation ] valeur : [ 2 ** 10 ** 1 ** 1 ** 2019-10-25 12:32:39 ] ** 4 ** 1 ** 1
+insert ** affectation_droit ** champ : [ fk_droit ** fk_profil ** etat ** user_creation ** date_creation ] valeur : [ 5 ** 10 ** 1 ** 1 ** 2019-10-25 12:32:39 ] ** 5 ** 1 ** 1
+update ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ testsf ** 1 ] ** 0 ** 1 ** 1
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** etat ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 100 ** 1 ] ** 0 ** 1 ** 42
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** etat ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 150 ** 1 ] ** 0 ** 1 ** 42
+update ** trajet ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** responsableGie ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ NDIOUGAd ** dieng ** ndiouga@numherit.com ** +221775228576 ** nddie ** 8 ** 2019-10-25 15:04:41 ] ** 0 ** 0 ** 1
+update ** responsableGie ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ NDIOUGAddd ** dieng ** ndiouga@numherit.com ** +221775228576 ** nddie ** 8 ** 2019-10-25 15:09:51 ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ NDIOUGAdddd ** dieng ** ndiouga@numherit.com ** +221775228576 ** nddie ** 8 ** 2019-10-25 15:10:04 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ NDIOUGA ** dieng ** ndiouga@numherit.com ** +221775228576 ** nddie ** 8 ** 2019-10-25 15:11:05 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-25 15:14:31 ** 1 ** 20191025151724.jpeg ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** password ** photo ** user_creation ] valeur : [ test ** test ** stagiaire.dev7@numherit.com ** +22177 ** stagiare ** 1 ** 8c1e025854009e892745c18ea1f4e5aad8c0d99e ** 20191025152118.jpeg ** 1 ] ** 44 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-25 15:28:57 ] ** 0 ** 1 ** 44
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-25 15:50:03 ** 1 ** 20191025155024.jpeg ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ test ** test ** 10 ** 1 ** 20191025161150.jpg ** 30 ] ** 87 ** 1 ** 41
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 20-11-2019 ** 30 ] ** 4 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-12 ** 30 ] ** 5 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42

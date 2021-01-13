@@ -1,0 +1,182 @@
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Amet1 ** Guaye ** medina ** medina ** 2147483647 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Amet ** Guaye ** medina ** medina ** 2147483647 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Amet1 ** Guaye ** medina ** medina ** 2147483647 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Amet ** Guaye ** medina ** medina ** 2147483647 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Guaye ** Amet ** medina@y.fr ** 2147483647 ** medina ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-11-15 11:56:24 ** 41 ** 20191115115635.jpeg ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ Sarr ** Omar ** guediawaye ** sarr@gmail.com ** +2217752654 ** 20191115124137.jpeg ** 30 ] ** 13 ** 1 ** 42
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ Faty ** Samb ** samb1@gmail.com ** +2217756214 ** samb6 ** c3e5a69217a6487d3abf4da227ebce9a6ff98194 ** 11 ** 30 ** 20191115125610.jpeg ** 3 ** 42 ] ** 47 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 20 ** 1 ** 41
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [  **  **  **  **  **  ** 30 ] ** 21 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 12 ] ** 0 ** 1 ** 41
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Assane1 ** Wade ** wade@numherit.com ** wadecom ] ** 0 ** 1 ** 41
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Assane13 ** Wade ** wade@numherit.com ** wadecom ] ** 0 ** 1 ** 41
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Assane ** Wade ** wade@numherit.com ** wadecom ] ** 0 ** 1 ** 41
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ test ** test ** di@g.com ** +2213 ** test ** 35c74f670fefc3445111387f61d35aa3929bd02c ** 11 ** 30 ** 20191115153234.jpg ** 3 ** 41 ] ** 48 ** 1 ** 41
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 48 ] ** 0 ** 1 ** 41
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ test ** test ** di@g.com ** +2213 ** test ** 5033dc15b7a84f71b67bba82d430179141a59388 ** 11 ** 30 ** 20191115153414.jpeg ** 3 ** 41 ] ** 49 ** 1 ** 41
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 49 ] ** 0 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22163 ** 30 ] ** 5 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 5 ] ** 0 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22136 ** 30 ] ** 6 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22154 ** 30 ] ** 7 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** controleur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +2215 ** 30 ] ** 8 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22133 ** 30 ] ** 9 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 9 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 8 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22156 ** 30 ] ** 10 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22133 ** 30 ] ** 11 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22155 ** 30 ] ** 12 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22133 ** 30 ] ** 13 ** 1 ** 41
+insert ** controleur ** champ : [ nom ** prenom ** adresse ** email ** photo ** telephone ** numGie ] valeur : [ test ** test ** Kharkov,  rue 23 août 62 ** diallosaifoulaye545@gmail.com **  ** +22155 ** 30 ] ** 14 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 14 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 13 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 12 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 11 ] ** 0 ** 1 ** 41
+delete ** controleur ** champ : [ id =  ] valeur : [ 10 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 6 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ libelle ] valeur : [ Car1 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ libelle ] valeur : [ Car ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ test ] ** 7 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ s ] ** 8 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 9 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 10 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 11 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 4 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 8 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 11 ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 12 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ f ] ** 13 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 14 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 13 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 10 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 9 ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ s ] ** 15 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 14 ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 16 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ f ] ** 17 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 12 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 15 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 16 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 17 ] ** 0 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 18 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ c ] ** 19 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ s ] ** 20 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ f ] ** 21 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 22 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ f ] ** 23 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ d ] ** 24 ** 1 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ f ] ** 25 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 25 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 19 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 22 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 24 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 18 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 21 ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 20 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ libelle ] valeur : [ fd ] ** 0 ** 1 ** 41
+delete ** categorie ** champ : [ id =  ] valeur : [ 23 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-5465 ** Rouge ** 10 ** 1 ** 20191115164154.png ** 30 ] ** 89 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-54666 ** Rouge ** 10 ** 1 ** 20191115164437.jpeg ** 30 ] ** 90 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 86 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ RC-773585 ** Rouge ** 10 ** 3 ** 20191115170110.jpg ** 30 ] ** 91 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 87 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 91 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 90 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ test ** Rouge ** 10 ** 3 ** 20191115170259.jpg ** 30 ] ** 92 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 89 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ 55 ** Rouge ** 10 ** 1 ** 20191115170439.jpg ** 30 ] ** 94 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 92 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 94 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-546+6 ** Rouge ** 10 ** 1 ** 20191115170747.jpg ** 30 ] ** 95 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 95 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ DK-546988 ** Rouge ** 10 ** 3 ** 20191115170842.jpeg ** 30 ] ** 96 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 96 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-5468 ** Blanc ** 3 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-546 ** Blanc ** 3 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-54 ** Blanc ** 3 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-548 ** Blanc ** 3 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-11-15 17:22:37 ** 41 ** 20191115172251.jpeg ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ] valeur : [ Ordinateurs ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ DK-5483 ** Blanc ** 3 ] ** 0 ** 1 ** 41
+insert ** type_materiel ** champ : [ libelle ** numGie ] valeur : [ c ** 30 ] ** 6 ** 1 ** 41
+insert ** type_materiel ** champ : [ libelle ** numGie ] valeur : [ f ** 30 ] ** 7 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ] valeur : [ ch ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ] valeur : [ c ] ** 0 ** 1 ** 41
+delete ** type_materiel ** champ : [ rowid =  ] valeur : [ 6 ] ** 0 ** 1 ** 41
+delete ** type_materiel ** champ : [ rowid =  ] valeur : [ 7 ] ** 0 ** 1 ** 41
+update ** type_materiel ** champ : [ libelle ] valeur : [ Ordinateur ] ** 0 ** 1 ** 41
+insert ** type_materiel ** champ : [ libelle ** numGie ] valeur : [ f ** 30 ] ** 8 ** 1 ** 41
+delete ** type_materiel ** champ : [ rowid =  ] valeur : [ 8 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** materiel ** champ : [ type ** marque ** numIdentification ** photo ** numGie ] valeur : [ 1 ** Samsung J6 ** 122 ** 20191115175310.jpeg ** 30 ] ** 7 ** 1 ** 41

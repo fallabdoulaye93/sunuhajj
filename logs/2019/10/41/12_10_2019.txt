@@ -1,0 +1,1 @@
+delete ** responsableGie ** champ : [ id =  ] valeur : [ 20 ] ** 0 ** 1 ** 1

@@ -1,0 +1,54 @@
+update ** categorie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [ Car ] ** 5 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+delete ** categorie ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ libelle ] valeur : [ Carfff ] ** 0 ** 1 ** 1
+update ** categorie ** champ : [ libelle ] valeur : [ Car ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** fk_typeprofil ** photo ] valeur : [ Saifon-Test ** Bleu ** 3 ** 20191001114310.png ] ** 0 ** 0 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 28 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 27 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** fk_typeprofil ** photo ] valeur : [ saifonTest ** Bleue ** 1 ** 20191001115750.png ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** fk_typeprofil ** photo ] valeur : [ test ** test ** 3 ** 20191001115959.png ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ test ** test ** 1 ** 20191001120221.png ] ** 29 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ test ** test ** 5 ** 20191001120321.png ] ** 30 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ testee ** testeee ** 1 ** 20191001120354.jpeg ] ** 31 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 30 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 31 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ ddd ** dd ** 3 ** 20191001120532.jpeg ] ** 32 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ dfd ** dfd ** 3 ** 20191001120605.jpeg ] ** 33 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 33 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 32 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 24 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 25 ] ** 0 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 23 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ test ** test ** 1 ** 20191001122353.png ] ** 34 ** 1 ** 1
+delete ** bus ** champ : [ id =  ] valeur : [ 34 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ GF ** DFD@ ** 1 ** 20191001123537.png ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ dff ** dfd ** 1 ** 20191001123602.png ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ fg ** fg ** 1 ** 20191001124153.jpeg ] ** 37 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ sdfg ** df ** 1 ** 20191001125029.jpeg ] ** 38 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ test ** test ** 4 ** 20191001125623.jpeg ] ** 39 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ x ** x ** 1 ** 20191001131304.jpeg ] ** 40 ** 1 ** 1
+insert ** profil ** champ : [ profil ** fk_typeprofil ] valeur : [ Admin ** 2 ] ** 8 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ jhghj ** jhg ** 3 ** 20191001144645.png ] ** 41 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 1 ** 20191001144951.jpeg ] ** 42 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ dff ** Rouge ** 1 ** 20191001145102.jpeg ] ** 43 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 1 ** 20191001145226.jpeg ] ** 44 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 3 ** 20191001145542.jpeg ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 3 ** 20191001145914.jpeg ] ** 45 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ RC-35454 ** test ** 3 ** 20191001150110.jpeg ] ** 46 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 5 ** 20191001150206.png ] ** 47 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ RC-35454 ** Rouge ** 4 ** 20191001150452.jpeg ] ** 48 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** test ** 1 ** 20191001152125.jpeg ] ** 49 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Vert ** 4 ** 20191001152904.png ] ** 50 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ 10 ** Rouge ** 1 ** 20191001153610.png ] ** 51 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ 10 ** Rougeriri ** 3 ** 20191001153634.jpeg ] ** 0 ** 0 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [ TATA DEM DIKK ] ** 6 ** 1 ** 1
+update ** categorie ** champ : [ libelle ] valeur : [ Mini Bus ] ** 0 ** 1 ** 1
+insert ** categorie ** champ : [ libelle ] valeur : [  ] ** 7 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [  **  **  ** 20191001154403.jpeg ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** categorie ** photo ] valeur : [ DK-546 ** Rouge **  ** 20191001161058.jpeg ] ** 0 ** 0 ** 1
+delete ** categorie ** champ : [ id =  ] valeur : [ 7 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 10 ** 4 ** 20191001162157.png ] ** 55 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ ggg ** gyygg ** iuiiuuu ** 4 ** 20191001163333.jpeg ] ** 56 ** 1 ** 1

@@ -1,0 +1,58 @@
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 34 ] ** 0 ** 1 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ Daroun ** Ouakam ** diallosaifoulaye545@gmail.com ** +22177 ** 3 ] ** 25 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** test ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdkhouma ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdktest ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdktest ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdkfgg ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ Fatou ** Dioum ** stagiarie.dev6@numherit.com ** +221777568797 ** fatou ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 20191015115355.jpeg ** 1 ] ** 35 ** 1 ** 1
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 35 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ Fatou ** Dioum ** fatouthieradioum@gmail.com ** +22177 ** fatou ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 20191015115611.jpeg ** 1 ] ** 36 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177358 ** saifon ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 20191015120040.jpeg ** 1 ] ** 37 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** 2019-10-15 12:01:53 ] ** 0 ** 1 ** 36
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ FaDioum ** Pikine ** fatouthieradioum@gmail.com ** +22177 ** 36 ] ** 27 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ** b913eb446fbbf8836365553a1 ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdkcccc ** $2y$10$bjYJP7QvW67bpxYqSjzdPuXzNl3WzTN/QNhxvkflC5svVPSnkvyBq ] ** 0 ** 0 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdkdfdf ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** login ] valeur : [ Baye Dame ** KHOUMA ** dame.khouma@numherit.com ** bdk ] ** 0 ** 1 ** 1
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 37 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifon ** 482f7629a2511d23ef4e958b13a5ba54bdba06f2 ** 1 ** téléchargement (3).jpeg ** 1 ] ** 38 ** 1 ** 1
+delete ** utilisateur ** champ : [ id =  ] valeur : [ 38 ] ** 0 ** 1 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifon ** a94a8fe5ccb19ba61c4c0873d391e987982fbbd3 ** 1 ** 20191015123817.jpeg ** 1 ] ** 39 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** 8 ** 0 ** 2019-10-15 13:02:57 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Saifoulaye ** Diallotest ** diallosaifoulaye545@gmail.com ** +22177 ** 8 ** 0 ** 2019-10-15 13:03:21 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** 8 ** 0 ** 2019-10-15 13:04:07 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** admin ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifonDiallo ** 8 ** 0 ** 2019-10-15 13:06:42 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifon ** 8 ** 2019-10-15 14:46:04 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifon ** 8 ** 2019-10-15 14:49:18 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177 ** saifontest ** 8 ** 2019-10-15 14:50:44 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** date_modification ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** +22177358 ** saifon ** 8 ** 2019-10-15 14:51:01 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-15 14:59:50 ** 1 ** 20191015150007.jpeg ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-15 15:00:07 ** 1 ** 20191015150023.jpeg ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+delete ** gie ** champ : [ id =  ] valeur : [ 25 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ soprserignesaliou ** keur massar ** ssp@gmaim.com ** 703005060 ** 1 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ Diallo ** Modou ** Diamalaye ** mbaye@gmail.com ** +2214646456468456 ** 20191015153420.jpeg ** 1 ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ Diallo ** Modou ** Quakam ** diallo@gmail.com ** +221774119658 ** 20191015153542.jpeg ** 1 ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ] valeur : [ Diallo ** Faty ** Diamalaye ** diallo@gmail.com ** +221444556632 ** 20191015153723.jpeg ** 1 ] ** 0 ** 0 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ** gie ] valeur : [ Diallo ** Modou ** Quakam ** diallo@gmail.com ** +221774569852 ** 20191015154025.jpeg ** 1 **  ] ** 0 ** 0 ** 1
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ** date_modification ] valeur : [ FatouDioum ** Pikine ** fatouthieradioum@gmail.com ** 22177 ** 3 ** 2019-10-15 15:44:10 ] ** 0 ** 1 ** 1
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** profil ** gie ] valeur : [ Diallo ** Modou ** Diamalaye ** diallo@gmail.com ** +22156565656 ** 20191015154559.jpeg ** 1 ** 27 ] ** 90 ** 1 ** 36
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ** date_modification ] valeur : [ soprserignesaliou ** keur massar ** ssp@gmaim.com ** 703005060 ** 1 ** 2019-10-15 16:05:50 ] ** 0 ** 1 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ DK-546 ** Rouge ** 10 ** 5 ** 20191015161330.jpeg ] ** 0 ** 0 ** 1
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ] valeur : [ DK-546 ** bleu ** 10 ** 3 ** 20191015161827.jpeg ] ** 0 ** 0 ** 1
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** photo ** user_creation ] valeur : [ madiop ** gueye ** malick.diallo@numherit.com ** +22177567567 ** malick ** 0bd471ae847f34b911cc27c1062da94e8239a9a9 ** 1 ** 20191015171450.jpeg ** 1 ] ** 40 ** 1 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ GIE1 ** Ouakam ** malick@numherit.com ** +2217788999 ** 40 ] ** 28 ** 1 ** 1
+update ** gie ** champ : [ nomgie ** adresse ** email ** telephone ** id_responsable ] valeur : [ GIE1 ** Ouakam ** malick@numherit.com ** 2147483647 ** 1 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ 78574898d0ca6fc08dbceae7e76c7f91fcd394c9 ** 1 ** 2019-10-15 17:18:55 ] ** 0 ** 1 ** 40
+update ** gie ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1

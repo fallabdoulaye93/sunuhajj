@@ -1,0 +1,10 @@
+update ** voyage ** champ : [ etat ] valeur : [ 2 ] ** 0 ** 1 ** 42
+update ** client ** champ : [ numcarte ** prenom ** nom ** email ** telephone ] valeur : [ 201010032212001 ** Malick ** Diallo ** malick.diallo@numherit.com ** +231687797979 ] ** 0 ** 1 ** 42
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ Cheikh ** khouma ** Ouest foire ** khouma@gmail.com ** +221772003510 ** 20191218105428.jpeg ** 30 ] ** 14 ** 1 ** 42
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Cheikh ** khouma ** Ouest foire ** Ouest foire ** 2147483647 ] ** 0 ** 1 ** 42
+update ** controleur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-12-18 12:50:33 ** 42 **  ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Cheikh ** khouma ** Ouest foirep ** Ouest foire ** 2147483647 ] ** 0 ** 1 ** 42
+insert ** affectation_bus ** champ : [ bus_id ** receveur_id ** device_id ** date_debut ** date_fin ** etat ** gie ** user_creation ** date_creation ] valeur : [ 83 ** 53 ** 4 ** 2019-12-18 ** 2019-12-31 ** 1 ** 30 ** 42 ** 2019-12-18 16:16:17 ] ** 4 ** 1 ** 42

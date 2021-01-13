@@ -1,0 +1,20 @@
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 70 **  ** 55 ** 4 ** 2 ** 2019-12-16 ** 1 ** 30 ** NTA84116512019 ** 3 ** 42 ** 2019-12-16 00:09:38 ] ** 3 ** 1 ** 42
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ LB-1001-BL ** Blanc ** 3 ] ** 0 ** 1 ** 42
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ LB-96 ** Blue ** 3 ] ** 0 ** 1 ** 42
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ LB-1212-BH ** Blue ** 5 ] ** 0 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+delete ** voyage ** champ : [ id =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** affectation_bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 53
+update ** affectation_bus ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 53
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 53
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 53
+update ** affectation_bus ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ** gie ** num_voyage ** affectation_id ** user_creation ** date_creation ] valeur : [ 84 ** 11 ** 11 ** 4 ** 2 ** 2019-12-16 ** 1 ** 30 ** NTA85816512019 ** 2 ** 42 ** 2019-12-16 15:50:32 ] ** 4 ** 1 ** 42

@@ -1,0 +1,1 @@
+insert ** sva_service_sunusva ** champ : [ label ** user_creation ** date_creation ** methode ** fk_categorie ** fk_fournisseur ** disponibilite ** palier ** commission ] valeur : [  ** 1 ** 2018-10-31 12:00:49 **  **  **  ** 0 ** 1 **  ] ** 27 ** 1 ** 1

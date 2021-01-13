@@ -1,0 +1,19 @@
+update ** sva_service_sunusva ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_service_sunusva ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 0 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 0 ** 0 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 1 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 2 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1 ** 2 ** 5 ** 1 ] ** 3 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1 ** 2 ** 0 ** 1 ] ** 4 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 5 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 150 ** 1 ] ** 6 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ] valeur : [ 1000 ** 2000 ** 100 ] ** 7 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ] valeur : [ 2001 ** 3000 ** 50 ] ** 8 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ] valeur : [ 1000 ** 2000 ** 100 ] ** 9 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ] valeur : [ 2001 ** 3000 ** 50 ] ** 10 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1000 ** 2000 ** 100 ** 1 ] ** 11 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 2001 ** 3000 ** 50 ** 1 ] ** 12 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 3 ** 4 ** 1 ** 1 ] ** 13 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 5 ** 6 ** 2 ** 1 ] ** 14 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 7 ** 9 ** 10 ** 1 ] ** 15 ** 1 ** 1

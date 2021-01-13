@@ -1,0 +1,961 @@
+[Lang]
+
+home menu
+en = 'English'
+administration = "Administration"
+utilisateur ='User'
+action = "Right"
+profils ='Profile'
+group ='Profile type'
+modules ='Modules'
+accueil ='Home'
+pays = "Country"
+type_interconnexion = "Interconnection type
+
+
+;header
+se_deconnecter = "Logout"
+mon_profil = "My profile
+
+
+administration
+email_existe = "Email already used"
+login_existe = "Login already used"
+adminerror = "Access denied"
+
+
+;Button
+btnValider='Validate'
+btnFermer='Close'
+btnAjouter='Add'
+btnModifier='Modify'
+btnRetour='Back'
+btnDesactiver='Deactivate'
+btnActiver='Activate'
+btnmodifpwd='Change password'
+btnAnnuler='Cancel'
+
+
+;right page
+ajoutDroit ='New Right'
+labDroit ='Right'
+labController ='Controller'
+labAction = "Action"
+controllerObligatoire = "The controller is mandatory
+droitObligatoire='The right is obligatory'
+actionObligatoire= "The action is mandatory
+listeDroit='List of rights' list
+modifDroit='Modification Right'
+succes_add_droit ='Successfully added right'
+echec_add_droit ='Failure to add the right'
+succes_update_droit ='Successfully modified right'
+echec_update_droit = "Failure to modify the right
+success_activate_droit = "Right activated successfully
+echec_activate_droit = "Echec activation du droit"
+succes_desactivate_droit = "Right successfully deactivated
+echec_desactivate_droit = "Failure to deactivate the right
+succes_delete_droit = "Successfully deleted right
+echec_delete_droit = "Failure to remove the right
+
+
+;right page Profile type
+ajoutTypeprofil = "Registration of Profile Types
+labTypep = "Profile type label
+typeproObligatoire='The profile type is mandatory'
+listeTypep='List of profile types' list
+thTypep='Profile Type'.
+modifTypep= "Modification of Profile Types
+
+
+;Module page
+btnAjouterModule ='New Module
+ajoutModule = "Add Module"
+labModule = "Module Label"
+moduleObligatoire='The wording of the module is mandatory'
+listeModule= "List of Modules
+thlibModule='Module Label' Module
+modifModule='Module modification'
+succes_add_module = "Module successfully added
+echec_add_module = "Failed to add the module
+succes_update_module = "Successfully modified module
+echec_update_module = "Failure to modify the module
+succes_activate_module = "Module successfully activated
+echec_activate_module = "Module activation failure
+succes_desactivate_module = "Module successfully deactivated
+echec_desactivate_module = "Module_deactivation failure
+succes_delete_module = "Module successfully deleted
+echec_delete_module = "Module_removal failure
+
+
+;Country page
+btnAjouterPays ='New Country'
+ajoutPays = "Add Country"
+labPays ='Country'
+paysObligatoire ='The country wording is mandatory'
+listePays ='List of Countries'
+thlibPays ='Country'
+modifPays ='Country Modification'
+success_add_pays ='Successfully added country'
+echec_add_pays ='Failure to add country'
+succes_update_pays ='Successfully modified country'
+echec_update_pays = "Country modification failure
+succes_activate_pays = "Country successfully activated
+echec_activate_pays = "Country activation failure
+succes_desactivate_pays = "Country successfully deactivated
+echec_desactivate_pays = "Failure to deactivate the country
+succes_delete_pays = "Country successfully deleted
+echec_delete_pays = "Failure to delete the country
+
+
+Profile page
+addProfile = "Save Profiles
+labProfile = "Label Profile"
+profileMandatory='The profile is mandatory'
+listProfile='List of profiles'
+thProfile='Profiles'
+thEtat= "State
+modifyProfile='Edit Profile'
+
+
+;user page
+ajoutUtilisateur = "New User"
+labprenom = "Prenom"
+labnom ='Name'
+labemail ='Email address'
+labLogin ='Login'
+labpwd = "Password" = "Password"
+labnpwd = "New password"
+labcnpwd = "Confirm new password"
+prenomObligatoire name='First name is mandatory'
+prenomLettre="The first name must be in letter
+nomObligatoire='The name is mandatory'
+nomLettre='The name must be in letter'
+emailObligatoire= "L email is mandatory
+emailInvalide='The email address is invalid'
+loginObligatoire='Login is mandatory'
+pwdObligatoire='The password is mandatory'
+listeUtilisateur='User list'
+modifUtilisateur='User Modification'
+detailUser='User Detail'
+modifpwdUtilisateur= "Password modification "
+detailUser1='User Detail:'
+npasswordObligatoire='Enter new password'
+cpasswordObligatoire='Confirm new password'
+cpasswordc='Confirmation not yet confirmed'
+passwordObligatoire='The password is mandatory'
+
+
+;page assignment
+listeAffectation = "List of rights assignments"
+tabBord ='Dashboard'
+thSModule ='Submodule'
+thdroit = "Droit"
+
+;Customer page
+client = "Customer"
+listeClient = "List of customers
+labphoto ='Photos'
+labprenom = "First name
+labnom = 'Name'
+labadresse  ='Address'
+labprenomd = "First name : '
+labnomd ='Name : '
+labadressed ='Address : '
+labidcarte = "Card Numbers :
+detailClient ='Customer Detail'
+detailClient1 = "Information on: '
+labdatenaiss ='Date of birth :'
+lablieunaiss = "place of birth :
+labpaynaiss ='Country:'
+labsexe ='Sexe :'
+labdatedeli = "Date of delivery :"
+labdatedexpi = "Expiry date :"
+lablicense = "License :"
+labtaille = "Size :"
+modifClient = "Customer modification"
+
+
+;my order page
+commande='Order command'
+listeCommande='List of orders'
+labcode_cmde='Order Code'
+labcode_cmde_site='Site code'
+labpays_origine= "Country of origin"
+labsite_cmde= "Site"
+labpays_dest= "Country Desti"
+labville_dest='City Desti'
+labdescription= "Description"
+labtarif='Tariffs'
+labetat='State'
+labdate_cmde='Date'
+ajoutCommande= "Add Command"
+labcode_cmde_siteObligatoire = "The order code of the site is mandatory"
+llabpays_origineObligatoire='The country of origin is mandatory'
+labsite_cmdeObligatoire='The order site is mandatory'
+pays_destObligatoire='The country of destination is mandatory'
+ville_destObligatoire='Command city is mandatory'
+tarifObligatoire='The rate is mandatory'
+modifCommande='The date is mandatory'
+modifCommande='Modify Order'
+descriptionObligatoire='The description is mandatory'
+listeclient='Client List'
+detailCommande1='Detail of the order: '
+leclient='Customer'
+
+
+;StatusOrder page
+statutcommande='Order status'
+listestatutCommande='List of order status'
+statutCommande='Order status'
+ajoutstcommande='Add command status'
+labstcmde='Label command status'
+libstcmdeObligatoire='Libelle du statut de la commande est obligatoire'
+modifstcmde='Change Order Status'
+
+
+;parametering
+parametrage= 'SETTINGS'
+user_profil= 'USER & PROFILE'
+gest_fourn= 'SUPPLIER MANAGEMENT'
+gest_service= 'SERVICE MANAGEMENT'
+tarif= 'Tariffs'
+paramtarif= 'Tariff'
+labpoidsmin= 'Weight Min'
+labpoidsmax= 'Max Weight'
+labprix= 'Price including VAT'
+labpoidsminObligatoire= 'Tariff'
+
+detail_user='User Details'
+list_users= "User List"
+tel='Telephone'
+
+;Supplier page
+four = "Suppliers"
+liste_four = "List of Suppliers"
+nom_four = "Supplier"
+tel_four = "Telephone"
+email_four ='Email'
+adresse_four ='Address'
+ajout_four ='New Supplier'
+modifFour = "Supplier Modification"
+nomObligatoire='The name is mandatory'
+emailObligatoire= "Email is mandatory"
+telephoneObligatoire='The phone is mandatory'
+adresseObligatoire='The address is mandatory'
+paysObligatoire='The country is mandatory'
+succes_add_four = "Supplier successfully added"
+echec_add_four = "Failure to add supplier"
+succes_update_four = "Successfully modified supplier"
+echec_update_four = "Failure to modify the supplier"
+succes_activate_four = "Supplier successfully activated"
+echec_activate_four = "Supplier activation failure"
+succes_desactivate_four = "Supplier successfully deactivated"
+echec_desactivate_four = "Failure to deactivate the supplier"
+succes_delete_four = "Supplier successfully deleted"
+echec_delete_four = "Supplier removal failure"
+
+
+;Supplier API page
+api_four = "API Supplier"
+liste_api_four = "List of Supplier APIs"
+label_api_four = "API Supplier"
+libelle_api_four ='API Name'
+ip_api_four ='IP Address'
+lien_api_four = "Url"
+ajout_api_four = "New API"
+modifApiFour = "Supplier API Modification"
+labelApiObligatoire='The label is mandatory'
+lienApiObligatoire='The link is mandatory'
+ip_api_Obligatoire='The IP address is mandatory'
+succes_add_api_four = "API successfully added"
+echec_add_api_four = "Failure to add API"
+succes_update_api_four = "Successfully modified supplier API"
+echec_update_api_four = "Supplier API modification failure"
+succes_activate_api_four = "Supplier API successfully activated"
+echec_activate_api_four = "Supplier API activation failure"
+succes_desactivate_api_four = "Supplier API successfully deactivated"
+echec_desactivate_api_four = "Supplier API deactivation failed"
+succes_delete_api_four = "Supplier API successfully deleted"
+echec_delete_api_four = "Supplier API deletion failed"
+select_fournisseur = "Select supplier"
+select_typewebservice = "Select webservice type"
+select_typeinterconnexion = "Select the interconnection type"
+labelApiObligatoire = "Mandatory API label"
+lienObligatoire= "Mandatory API link"
+ipObligatoire = "Mandatory IP address"
+fournisseurObligatoire = "Compulsory supplier"
+documentation ='Documentation'
+username ='Username'
+password ='Password'
+key ='Key'
+identifier ='Identification'
+token ='Token'
+param_identification = "Parameters identification"
+param_generale = "General parameters"
+detail_fournisseur = "Supplier Detail"
+detail_api_four = "Detail API Supplier"
+methodes = "Methods"
+
+
+;Page Method (web service)
+web_service = "Method"
+liste_ws = "List of Methods"
+label_ws ='Method'
+ajout_ws = "New Method"
+modif_ws = "Modification Method"
+label_ws_obligatoire='The label is mandatory'
+succes_add_ws = "Successfully added method"
+echec_add_ws = "Failure to add Method"
+succes_update_ws = "Successfully modified method"
+echec_update_ws = "Method modification failure"
+succes_activate_ws = "Method successfully activated"
+echec_activate_ws = "Method activation failure"
+succes_desactivate_ws = "Method successfully deactivated"
+echec_desactivate_ws = "Method deactivation failure"
+succes_delete_ws = "Method successfully deleted"
+echec_delete_ws = "Method deletion failure"
+select_api = "Select API"
+detail_ws = "Method Detail"
+
+
+;page code return web service code
+code_retour = "Return Code"
+liste_cr = "List Return Codes"
+code_cr ='Code'
+msg_fr_cr ='Message in French'
+msg_en_cr ='Message in English'
+ajout_cr ='Return Code'
+modif_cr = "Modification of return code"
+code_cr_obligatoire ='mandatory code'
+msg_fr_cr_obligatoire = "Message in French required"
+msg_en_cr_obligatoire = "Message in English required"
+succes_add_cr ='Return code successfully added'
+echec_add_cr = "Failure to add return code"
+succes_update_cr ='Successfully modified return code'
+echec_update_cr = "Failure to modify return code"
+succes_activate_cr = "Return code successfully activated"
+echec_activate_cr = "Return code activation failure"
+succes_desactivate_cr = "Return code successfully deactivated"
+echec_desactivate_cr = "Failure to deactivate Return code"
+succes_delete_cr = "Return code successfully deleted"
+echec_delete_cr = "Failure to delete return code"
+select_ws = "Select method"
+
+;Parameter page
+parametre ='Parameter'
+nbre_parametre ='Number of parameters'
+parametrage_ws = "Parametrage Web Service"
+Msg_erreur = "Two parameters must not have the same name"
+Msg_par_req = "Please enter the parameter '
+modif_par ='Parameter modification'
+succes_add_par = "Parameter successfully added"
+echec_add_par ='Failure to add parameter'
+succes_update_par = "Parameter successfully modified"
+echec_update_par ='Failure to modify parameter'
+code_alert_error ='Code already exists'
+
+
+modification_user='User modification'
+update_photo= "Photo update"
+non='No'
+oui='Yes'
+admin = "admin"
+btn_retour = "Back"
+btn_activer='Activate'
+btn_desactiver= "Deactivate"
+modifier='Modify'
+reinitialiser='Reset Password'
+update='Update'
+desactivation='Deactivation'
+message_desactivation='Do you want to confirm the deactivation?'
+activation='Activation'
+message_activation="Do you want to confirm the activation?"
+
+
+photo='Photo'
+action_profil_autorise='The actions allowed for the profile'
+select_all = "Select the whole module"
+enregistrer='Save'
+action_success=' SUCCESS : Successful action'
+
+
+;page category service
+cat_service = "Service category"
+list_cat_service ='Service Category List'
+btnAjouterCatService = "New Service Category"
+modif_catservice = "Modification Service Category"
+thlibCatService= "Label service category"
+succes_add_catservice ='Service category successfully added'
+echec_add_catservice = "Failure to add service category"
+fourObligatoire='The wording of the service category is mandatory'
+fourObligatoire= "Supplier is obligatory"
+succes_update_catservice = "Service category successfully modified"
+echec_update_catservice = "Failure to modify Service category"
+succes_activate_catservice = "Service category successfully activated"
+echec_activate_catservice = "Failure to activate Service category"
+succes_desactivate_catservice = "Service category successfully deactivated"
+echec_desactivate_catservice = "Failure to deactivate Service category"
+type_webservice = "Type web service"
+typewebServiceObligatoire='The wording of the web service type is mandatory'
+thlibTypeWebService='Type web service'
+btnAjouterTypeWebService = "New Web Service Type"
+modif_typewebservice = "Modification Web Type Service"
+echec_add_typewebservice = "Failure to add Web Service Type"
+succes_add_typewebservice = "Web service type successfully added"
+succes_update_typewebservice = "Web service type successfully modified"
+echec_update_typewebservice = "Failure to modify Web service type"
+succes_activate_typewebservice = "Web service type successfully activated"
+echec_activate_typewebservice = "Failure to activate Web service type"
+succes_desactivate_typewebservice = "Web service type successfully deactivated"
+succes_desactivate_typewebservice = "Failure to deactivate Web service type"
+type_interconnexion = "Interconnection type"
+typeinterconnectionObligatoire='The wording of the interconnection type is mandatory'
+thlibTypeInterconnexion='Interconnection type'
+btnAjouterTypeInterconnexion = "New Type Interconnection"
+modif_typeinterconnexion = "Modification Type Interconnection"
+echec_add_typeinterconnexion = "Failure to add Type Interconnection"
+succes_add_typeinterconnexion ='Successfully added interconnection type'
+succes_update_typeinterconnexion = "Interconnection type successfully modified"
+echec_update_typeinterconnexion = "Failure to modify Type interconnection"
+succes_activate_typeinterconnexion = "Interconnection type successfully activated"
+echec_activate_typeinterconnexion = "Failed activation Type interconnection"
+succes_desactivate_typeinterconnexion = "Interconnection type successfully deactivated"
+echec_desactivate_typeinterconnexion = "Failure to deactivate interconnection_type"
+succes_delete_catservice = "Service category successfully deleted"
+echec_delete_catservice = "Failure to delete the service category"
+
+
+;page service
+service = "Service"
+list_service = "Service List"
+btnAjouterService = "New Service"
+modif_service = "Modification Service"
+thlibService= "Service label"
+succes_add_service ='Service successfully added'
+echec_add_service = "Failure to add service"
+serviceObligatoire='The wording of the service is mandatory'
+succes_update_service ='Successfully modified service'
+echec_update_service = "Failure to modify Service"
+succes_activate_service = "Service successfully activated"
+echec_activate_service = "Service activation failure"
+succes_desactivate_service = "Service successfully deactivated"
+echec_desactivate_service = "Service deactivation failure"
+succes_delete_service = "Service successfully deleted"
+echec_delete_service = "Service_delete_failure_to_delete_service"
+select_cat_service = "Select service category"
+dispo_service = "List of countries where the service' is available"
+est_dispo = "is available"
+disponibilite_partout = "International availability"
+oui ='Yes'
+non ='No'
+detail_service = "Detail Service"
+voir_infos_detaillees_service = "View service information"
+cree_par = "Created by"
+cree_le = "Created on"
+modifie_par = "Modified by"
+modifie_le = "Modified on"
+infos = "General information"
+tarifs_frais = "Fees Fees"
+disponibilite = "Availability"
+disponibilite_du_pays = "Country where the Service is available"
+erreurs_ws = "Web Services Errors"
+thService = "Service"
+thCatService = "Service Category"
+montant_deb = "Start amount"
+montant_fin = "End_amount"
+tva = "VAT"
+ht = "Excluding Tax"
+valeur = "Value"
+modif_tarif_frais = "Modification Fee Tariff
+succes_update_tarif_frais = "Service successfully modified"
+echec_update_tarif_frais = "Failure to modify Service"
+btnAjouterErrorWS = "Web Service Error"
+thlibCode = "Code"
+thlibFr = "French Label"
+thlibEn = "English Label"
+select_service = "Select the Service"
+libelle_fr_error_ws_obligatoire='The code is mandatory'
+libelle_fr_error_ws_obligatoire= "The service is mandatory"
+libelle_en_error_ws_obligatoire='The English wording is mandatory'
+error_ws_serviceObligatoire='The service is mandatory'
+ajout_error_ws = "New webservice error"
+modif_error_ws = "Modification of webservice error"
+commission_par_palier = "Commission by tier"
+commission ='Commission' ='Commission'
+commission_montant ='Commission Amount'
+methode ='Method' ='Method'
+methode_alert_error ='This method already exists'
+
+
+;Partner page
+gestion_partenaires = "Partner Management"
+partenaire = "Partner"
+partenaires = "Partners"
+raison_sociale = "Company name"
+cle ='Key'
+email_partenaire = "Email"
+tel_partenaire = "Telephone"
+adresse_partenaire ='Address'
+listePartenaire= "List of Partners"
+ajoutPartenaire='New Partner'
+ajout_partenaire = "New Partner"
+modif_partenaire = "Partner_model"
+raison_sociale_obligatoire = "mandatory corporate name"
+succes_add_partenaire = "Partner successfully added"
+echec_add_partenaire = "Failure to add partner"
+succes_update_partenaire = "Successfully modified partner"
+echec_update_partenaire = "Partner modification failure"
+succes_activate_partenaire = "Partner successfully activated"
+echec_activate_partenaire = "Partner activation failure"
+succes_desactivate_partenaire = "Partner successfully deactivated"
+echec_desactivate_partenaire = "Partner_deactivation failure"
+succes_delete_partenaire = "Partner successfully deleted"
+echec_delete_partenaire = "Partner_delete_failure"
+config_service_partenaire = "Subscribe partner service"
+select_all = "Select all"
+Informations_partenaire = "Partner_information"
+Services_souscrits = "Subscribed_services"
+sous_action_success = "Successful subscription"
+
+
+;page first connection
+Modifier_motpass='Change password'
+newmotdepasse='New password'
+ancienmotdepasse='Old password'
+confirmmotdepasse='Confirm password'
+pass_alert_error='Incorrect old password'
+pass_alert_success='Old correct password'
+confirmpass_alert_error='The two passwords do not match'
+confirmpass_alert_success='Confirm valid password'
+pass_success='Password change successfully'
+pass_echoue='Failed Password change'
+default='Drag and drop a file here or click'
+replace='Drag and drop a file or click to replace'
+remove='Delete'.
+error='Sorry, the file is too large'
+
+
+;header message
+liste_message = "List of header messages"
+message = "Header message"
+add_message = "New header message"
+succes_add_message ='Message successfully added'
+echec_add_message = "Failed to add message"
+expediteur = "Sender"
+expediteurObligatoire= "The sender is mandatory"
+messageObligatoire= "The message is mandatory"
+modifMessage= "Modification message"
+succes_activate_message = "Message successfully activated"
+echec_activate_message ='Message activation failure'
+succes_desactivate_message = "Message successfully deactivated"
+echec_desactivate_message = "Failure to deactivate the message"
+succes_delete_message = "Message successfully deleted"
+echec_delete_message = "Failure to delete the message"
+succes_update_message = "Message successfully modified"
+echec_update_message = "Failure to modify the message"
+parametrage_commission = "Commission setting"
+Msg_Ecr = "Please fill in all fields"
+Msg_error ='Error'
+Msg_equi = "The end amount must be greater than or equal to the beginning amount"
+
+verif_success = "Verification successfully completed"
+operator = "Operator"
+num_desti = "Recipient telephone number"
+price_detail = "retail price list"
+
+
+;page reporting
+reporting ='Reporting'
+gestion_reporting = "Reporting"
+reportingPartenaire = "Transactions by Partners"
+listPartenaire = "Partner List"
+transactionsJournalieres = "Transactions of the Day"
+graphes = "Graphs"
+num_transaction = "Transaction Number";page reporting"
+reporting ='Reporting'
+gestion_reporting = "Reporting"
+reportingPartenaire = "Transactions by Partners"
+listPartenaire = "Partner List"
+transactionsJournalieres = "Transactions of the Day"
+graphes = "Graphs"
+num_transaction = "Transaction Number"
+date_transaction ='Date'
+montant_transact ='Amount'
+commentaire ='Comment'
+date_deb = "Start date"
+date_fin ='end date'
+imprimer ='Print'
+transactionprpart = "Transactions by Partner"
+transactionprsrv = "Transactions by Service"
+select_partenaire = "Select a partner"
+commissionPartenaire = "Commission by Partner"
+statut_transact ='Status'
+detailTransact = "Transaction Detail"
+date_transaction ='Date'
+montant_transact ='Amount'
+commentaire ='Comment'
+date_deb = "Start date"
+date_fin ='end date'
+imprimer ='Print'
+transactionprpart = "Transactions by Partner"
+transactionprsrv = "Transactions by Service"
+select_partenaire = "Select a partner"
+commissionPartenaire = "Commission by Partner"
+statut_transact ='Status'
+detailTransact = "Transaction Detail"
+
+
+;Driver page
+listeChauffeur = "List of Drivers"
+listeReceveur = "Receiver List"
+listeControleur = "List of Controllers"
+gest_personnels = "Personal Management"
+succes_add_chauffeur ='Driver added successfully'
+echec_add_chauffeur = "Failure to add the driver"
+succes_update_chauffeur = "Successfully modified driver"
+echec_update_chauffeur = "Failure to modify the driver"
+succes_delete_chauffeur = "Driver successfully deleted"
+echec_delete_chauffeur = "Driver removal failure"
+succes_activate_chauffeur = "Driver successfully activated"
+echec_activate_chauffeur = "Driver successfully deactivated"
+succes_desactivate_chauffeur = "Failure to deactivate the driver"
+echec_desactivate_chauffeur = "Driver deactivation failure"
+listeChauffeur = "List of drivers"
+employe ='Employer'
+ajoutchauffeur = "Add driver"
+nom ='Name'
+prenom ='First name'
+adresse ='Address'
+email ='Email'
+etat = "state"
+action = "Action"
+telephone ='Telephone'
+detail_chauffeur = "Driver Detail"
+modifChauffeur = "Modify Chauffeur
+modification_Chauffeur = "Modification Driver"
+update_photo = "Update photo"
+ajoutChauffeur = "New Driver"
+detail_chauffeur = "Detail Chauffeur"
+detail ='Detail'
+nomgie ='GIE Name'
+
+
+;Receiving page
+succes_add_receveur = "Driver successfully added"
+echec_add_receveur = "Failure to add the receiver'
+succes_update_receveur = "Successfully modified driver"
+echec_update_receveur = "Failure to modify the receiver"
+succes_delete_receveur = "Driver successfully deleted"
+echec_delete_receveur = "Receiver_delete_delete_receiver_deletion_failure"
+succes_activate_receveur = "Driver successfully activated"
+echec_activate_receveur ='Receiver_activate_failure'
+succes_desactivate_receveur = "Driver successfully deactivated"
+echec_desactivate_receveur = "Receiver_deactivation failure"
+ajoutreceveur= "Add Receiver"
+nom ='Name'
+fprenom ='First name'
+adresse ='Address'
+email ='Email'
+etat = "state" = "state"
+action = "Action"
+telephone ='Telephone'
+detail_receveur = "Detail Receiver"
+modifReceveur = "Modify Receiver"
+modification_receveur = "Modification Receiver"
+ajoutReceveur ='New Receiver'
+detail_receveur = "Detail Receiver"
+listeReceveur = "Receiver List"
+
+;controller page
+succes_add_controleur ='Controller successfully added'
+echec_add_controleur = "Failed to add controller"
+succes_update_controleur = "Successfully modified controller"
+echec_update_controleur = "Checker modification failure"
+succes_delete_controleur = "Controller successfully deleted"
+echec_delete_controleur = "Failure to remove the controller"
+succes_activate_controleur = "Controller successfully activated"
+echec_activate_controleur = "Controller activation failure"
+succes_desactivate_controleur = "Controller successfully deactivated"
+echec_desactivate_controleur = "Controller_deactivation failure"
+ajoutcontroleur = "Add Controller"
+nom ='Name'
+prenom ='First name'
+adresse ='Address'
+email ='Email'
+etat = "state" = "state"
+action = "Action"
+telephone ='Telephone'
+detail_controleur = "Detail Controller"
+modifControleur = "Modify Controller"
+ajoutControleur = "New Controller"
+modification_controleur = "Modification Controller"
+detail_controleur = "Detail Controller"
+listeControleur = "List of controllers"
+
+
+listServ = "Service List"
+thpartenaire = "Partner"
+reportingService = "Transactions by Services"
+transactionprsrv = "Transactions by Service"
+select_service = "Select a service"
+
+
+;transaction
+transaction ='Transactions'
+listeTransaction = "Transaction by Bus"
+transactionsJournalieres = "Transaction per Day"
+transactionprbus = "Transaction List"
+date ='Date'
+receveur ='Receiver'
+bus = "Bus".
+ticket ='Ticket'
+etat = "state" = "state"
+montant ='Amount'
+select_bus = "Select the bus"
+detail_transaction = "Detail transaction"
+liste_transaction = "List of transactions"
+numticket ='Numero ticket'
+date_ticket ='Date_ticket'
+nomreceveur ='Receiver Name'
+dateticket ='Date Ticket'
+TransactionsJournalieres= "Daily Transactions"
+transactionprjour = "Transaction per Day"
+listeTransactionsJournalieres ='Bus List'
+nbrebus='Number of buses'
+nnbretransaction ='Number of transactions'
+nbrticket = "Number of Tickets"
+montantTotal ='Amount' ='Amount'
+liste_transaction = "List of transactions"
+transactionprbus = "Transaction by bus"
+detailtransactionjounalieres = "Detail of transactions by Bus"
+detailtransactionprbus = "Detail transaction per bus"
+listedestransactions = "List of Transactions"
+mon_total ='Amount' ='Amount'
+nbreTransaction ='Number of transactions'
+nbr_bus ='Number of buses'
+
+;bus
+gest_bus = "Bus management"
+liste = "List of buses"
+matricule ='Personnel number'
+couleur ='Color'
+etat = "state" = "state"
+categorie ='Category'
+newBus = "New Bus"
+saveBus = "Bus Registration"
+modification_Bus = "Bus modification"
+detail_Bus = "Detail Bus"
+libelle ='Label'
+place ='Number of places'
+buss ='Personnel number'
+succes_active_bus = "Successfully active bus"
+echec_active_bus = "Bus activation failure"
+succes_desactive_bus = "Bus successfully deactivated"
+echec_desactive_bus = "Bus deactivation failure"
+succes_update_bus = "bus successfully modified"
+bus_update_failure = "Bus modification failed"
+succes_delete_bus = "bus successfully deleted"
+echec_delete_bus = "Bus removal failure"
+succes_add_categorie = "category successfully added"
+echec_add_categorie ='Failure to add the bus'
+succes_active_categorie = "successfully active category"
+echec_active_categorie = "failure to activate the category"
+succes_desactive_categorie = "Successfully desactivated category"
+echec_desactive_categorie = "Failure to deactivate the category"
+succes_delete_categorie = "Category successfully deleted"
+echec_delete_categorie = "Failure to delete the category"
+succes_update_categorie = "Category successfully modified"
+echec_desactive_categorie = "Failure to deactivate the category"
+
+
+;categories
+newCategorie = 'New Category'
+gestionCategorie = 'Bus Category Management'
+saveCategorie = 'Registration Categories'
+modifCategorie = 'Modification of categories'
+
+;management gie
+gestion_gie = "Gie Management"
+liste_gie ='List'
+newGie = "New Gie"
+nomGie ='Gie'
+adresseGie ='Address'
+nomGieObligatoire = "Mandatory GieName"
+terminus = "Name of the mandatory terminus"
+responsableObligatoire = "Please choose a responsible person"
+gieDetail = "Detail Gie"
+gieModif = "Modification Gie"
+nomgie ='GIE Name'
+listeGie ='List GIe'
+adresse ='Address'
+
+;responsible management
+responsable ='Responsible'
+newResponsable = "Responsible creation"
+terminus ='Terminus'
+listeRespo = "Responsible List"
+nomRes ='Name'
+prenomRes= "First name"
+emailRes ='Email'
+telRes ='Telephone'
+newRes = "New Leader"
+gest_Res = "Bus responsible management"
+save_Respo = "Responsible registration"
+detailRes = "Detail Manager Gie"
+modification_Respo = "Modification Responsible Gie"
+listeResponsable = "List of responsible persons"
+detailRespo = "RESPONSIBLE DETAILS"
+
+
+gestion_materiel = "Material and Assignment Management"
+typeMateriel ='Type of Material'
+listemateriel = "Liste des Materiels"
+affectation_materiel = "Material Assignment"
+affectMateriel = "Material Assignment"
+listeType = "List of Material Types"
+gestion = "Material Management"
+ajoutType = "Add Type"
+ajoutTypeModal = "Add Type"
+libelle ='Libelle'
+action = "Action"
+marque ='Brand'
+newTool = "New Material"
+succes_activate_type = "Type successfully activated"
+echec_activate_type ='Failure of type activation'
+modifType = "Modification of the Type"
+succes_update_type ='Successfully modified type'
+echec_update_type ='Failure of type modification'
+detail_type = "Detail of the Type of Material"
+succes_delete_type = "Type successfully deleted"
+echec_delete_type = "Type_delete_failure_to_delete_type"
+detailMateriel = "Detail Materiel"
+materiel ='Material'
+datedebaffect = "Assignment Start Date"
+datefinaffect ='End Date Assignment'
+nomprenom ='Receiver'
+date_debut_affect = "Assignment_start_date"
+date_fin_affect = "Date End of assignment"
+ajoutAffectMateriel ='Add material assignment'
+numIdentification = "Numero Idendification"
+ajoutMateriel = "Addition Material"
+nouvelAffect = "New Assignment"
+ligne ='Line'
+lieu_depart = "place_departure"
+lieu_arrive = "Place arrives"
+nombre_section ='Number of sections'
+ecart_section = "deviation section"
+prix_base ='base price'
+newtrajet = "New route"
+trajet ='Journeys'
+succes_activate_trajet ='Successfully activated route'
+echec_activate_type ='Failure to activate the path'
+succes_desactivate_trajet = "Traject successfully deactivated"
+echec_desactivate_trajet = "failed to deactivate the route"
+succes_desactivate_type = "Type deactivated successfully"
+succes_update_trajet ='Successfully modified trip'
+echec_update_trajet ='Failure to modify the route'
+modification_Trajets = "Modification of the trip"
+detailTrajets = "Detail of the Route"
+modifTrajet = "Modification of the Route"
+controleur ='Controller'
+conducteur ='Driver'
+datevoyage = "Date of travel"
+succes_activate_voyages = "Successfully activated travel"
+echec_activate_voyages = "Failure to activate the trip"
+succes_desactivate_voyages = "Travel disabled successfully"
+echec_desactivate_voyages = "Travel_deactivation_failure"
+succes_delete_voyages = "Successfully deleted travel"
+echec_delete_voyages = "Failure to delete the trip"
+succes_update_voyages = "Successfully modified travel"
+echec_update_voyages = "Failure to modify the trip"
+succes_delete_trajet = "successfully modified route"
+succes_delete_trajet = "Failure to delete the route"
+newvoyages = "New voyage"
+voyages = "Travel"
+newvoyages = "New Voyage"
+date_voyage ='Date Voyage'
+bus_id ='Bus'
+conducteur_id ='Driver'
+receveur_id ='Receiver'
+controleur_id ='Controller'
+trajet_id ='Journey'
+
+modifVoyage= "Travel Modification"
+detailVoyages = "Detail Voyage
+modification_voyage = "Travel Modification"
+listedesaffectation= "List of assignments"
+categoriebus = "Bus category"
+transactionprjourbus = "Transaction per day and per Bus"
+type_add_succes ='Added type with access'
+echec_add_type ='Failure to add type'
+materiel_add_succes = "material successfully added"
+echec_add_materiel ='Failure to add material'
+succes_activate_matreiel = "Active material with chips"
+echec_activate_materiel = "Hardware activation failure"
+succes_desactivate_materiel = "Successfully deactivated material"
+echec_desactivate_materiel = "Hardware deactivation failure"
+succes_delete_materiel = "Materiel supprime avec succès"
+echec_delete_materiel = "Failure to delete the material"
+succes_update_materiel = "successfully modified material"
+echec_update_materiel = "Failure of hardware modification"
+succes_affecte_materiel ='Successfully assigned material'
+echec_affecte_materiel ='Failure of hardware assignment'
+succes_desaffecte_materiel ='Successfully assigned material'
+echec_desaffecte_materiel = "Material_destruction failure"
+succes_add_affecte ='Assignment Material successfully added'
+echec_add_affecte ='Failure to add the assignment'
+succes_delete_affecte ='Successfully deleted assignment'
+echec_delete_affecte = "Failure to delete the assignment"
+succes_add_trajet = "Traject successfully adds"
+echec_add_trajet ='Failure to add the route'
+gestion_trajet_voyage = "Travel_and_trip_management"
+succes_add_voyage ='Successfully added travel'
+echec_add_voyage ='Failure to add the trip'
+Transactionsparjour= "Transaction per day"
+Selectionnezunmateriel = "Select a material"
+Selectionnezunreceveur= "Select a recipient"
+selectionletypedemateriel = "Select the type of material"
+listedestypesdemateriels='list of types of equipment'
+listedescategories = "List of categories"
+listedesprofils = "List of profiles"
+selectionletypedeprofil= "Select profile type"
+selectionlegie = "Select the gie"
+selectionnerunbus = "Select a bus"
+listedesbus = "List of buses"
+selectionnerunbus= "Select a bus"
+listedesconducteurs ='driver list'
+selectionnerunconducteur = "select a driver"
+listedesreceveurs = "List of recipients"
+selectionnerunreceveur = "Select a recipient"
+
+
+
+
+;PAPA NGOM
+uuid = 'UUID'
+manufacture = 'Manufactur'
+model = 'Model'
+platform = 'Platform'
+ajouter_par = 'Added by'
+date_ajout = 'Date added'
+remove_device = 'Deleting a device'
+message_remove_device = 'Are you sure you want to delete this device?'
+desable_device = 'DDevice desactivation'
+message_desable_device = 'Are you sure you want to disable this device?'
+enable_device = 'Device activation'
+message_enable_device = 'Are you sure you want to enable this device?'
+appareil = 'Device'
+numero_ligne = 'Trip number'
+listedesaffectation = 'List of assignments'
+selectionnerunaffectation = 'Select an assignment'
+code_voyage = 'Travel code'
+cloturer = 'Close'
+close = Closing
+echec_delete_voyages1 = 'This trip contains tickets sold'
+
+encours = 'En cours'
+currency = '$(LRB)'
+ca_voyage = ' Travel turnover'
+nombre_ticket = 'Number of tickets sold'
+heure_vente = 'Time of day'
+ticket_vendus = 'Tickets sold'

@@ -1,0 +1,52 @@
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ malick ** diallo ** malick.diallo@numherit.com ** +23177877999 ** malick.diallo ** 3e32833ef3cb34c0f93e028cf809caea99cb4c99 ** 11 ** 30 **  ** 3 ** 42 ] ** 48 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ malick ** diallo ** malick.diallo@numherit.com ** +231778779979 ** malick.diallo ** 69712e2fe83ce5c5714f71beec96e360de77a133 ** 11 ** 30 **  ** 3 ** 42 ] ** 49 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ malick ** diallo ** malick.diallo@numherit.com ** +23177878879 ** malick.diallo ** 51ed293b6605c433f38dd201a26232805bbff998 ** 11 ** 30 **  ** 3 ** 42 ] ** 50 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** password ** fk_profil ** gie ** photo ** type ** user_creation ] valeur : [ malick ** diallo ** malick.diallo@numherit.com ** +231778789979 ** malick ** 13170e8efd402b4f02ece48e97bc62170bdf2fdc ** 11 ** 30 **  ** 3 ** 42 ] ** 51 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** gie ** password ** photo ** type ** user_creation ] valeur : [ malick ** dialllo ** malick.diallo@numherit.com ** +231777878797 ** malick.diallo ** 11 ** 30 ** 2e3627a48262eeb723d39b720e02c79f9b3048d5 **  ** 3 ** 42 ] ** 52 ** 1 ** 42
+insert ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** login ** fk_profil ** gie ** password ** photo ** type ** user_creation ] valeur : [ malick ** diallo ** malick.diallo@numherit.com ** +23177676868 ** malick.diallo ** 11 ** 30 ** 61a9bf97014591ad864edaa0bcb7a823d3e7ecc2 **  ** 3 ** 42 ] ** 53 ** 1 ** 42
+update ** utilisateur ** champ : [ password ** connect ** date_modification ] valeur : [ a08da15c961fd7efffd8ee408b5d62538a051785 ** 1 ** 2019-12-13 10:54:30 ] ** 0 ** 1 ** 53
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 3 ** 2 ** 2019-12-14 **  ** 30 ** 1 ] ** 20 ** 1 ** 42
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 3 ** 2 ** 2019-12-07 **  ** 30 ** 1 ] ** 21 ** 1 ** 42
+update ** materiel ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+delete ** devices ** champ : [ rowid =  ] valeur : [ 7 ] ** 0 ** 1 ** 42
+delete ** devices ** champ : [ rowid =  ] valeur : [ 6 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-87 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-86 ** TPE3 ** 2019-12-13 13:12:29 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-86 ** TPE3 ** 2019-12-13 13:15:02 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 5 ** 2-1234432233 ** 2019-12-14 **  ** 30 ** 1 ] ** 22 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ 1234432233 ] ** 2324 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 5 ** 2-1234432233 ** 2019-12-15 **  ** 30 ** 1 ] ** 23 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 5 ** 2-1234432233 ** 2019-12-15 **  ** 30 ** 1 ] ** 24 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ 1234432233 ] ** 0 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-85 ** TPE3 ** 2019-12-13 13:25:25 ] ** 0 ** 0 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 11 ** 3-b51319503e351aed ** 2019-12-15 **  ** 30 ** 1 ] ** 25 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ b51319503e351aed ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 12 ** 4-bf2c3a5b9b45f89c ** 2019-12-21 **  ** 30 ** 1 ] ** 26 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ bf2c3a5b9b45f89c ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 3 ** 2-1234432233 ** 2019-12-15 **  ** 30 ** 1 ] ** 27 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 11 ** 3-b51319503e351aed ** 2019-12-15 **  ** 30 ** 1 ] ** 28 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ b51319503e351aed ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 3 ** 4-bf2c3a5b9b45f89c ** 2019-12-08 **  ** 30 ** 1 ] ** 29 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** affectation_materiel ** champ : [ receveur_rowid ** materiel ** date_debut_affect ** date_fin_affect ** numGie ** etat ] valeur : [ 5 ** 2-1234432233 ** 2019-12-14 **  ** 30 ** 1 ] ** 30 ** 1 ** 42
+update ** devices ** champ : [ affecte =  ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** utilisateur ** champ : [ uuid =  ] valeur : [ 1234432233 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-87 ** TPE3 ** 2019-12-13 13:25:39 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Toshiba ** bf2c3a5b9b45f89c ** HB-86 ** TPE3 ** 2019-12-13 15:28:02 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Mobiwire ** b51319503e351aed ** MP3_Plus ** TPE2 ** 2019-12-13 15:49:06 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Mobiwire ** b51319503e351aed ** MP3_Plus ** TPE2 ** 2019-12-13 15:49:31 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+insert ** devices ** champ : [ manufacture ** nom ** uuid ** model ] valeur : [ Aser ** TPE9 ** 34zr26d35e68r9 ** MP4_Simple ] ** 10 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ** nom ** date_modification ] valeur : [ Samsung ** 0c260e1494132f8e ** HB-24 ** TPE6 ** 2019-12-13 16:20:11 ] ** 0 ** 0 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ] valeur : [ Samsung ** 0c260e1494132f8e ** HB-24 ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ] valeur : [ Aser ** 34zr26d35e68r8 ** MP4_Simple ] ** 0 ** 1 ** 42
+update ** devices ** champ : [ manufacture ** uuid ** model ] valeur : [ Aser ** 34zr26d35e68r8 ** MP4_Simple ] ** 0 ** 1 ** 42

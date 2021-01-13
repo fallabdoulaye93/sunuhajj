@@ -1,0 +1,3 @@
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** affectation_materiel ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+insert ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ** numGie ] valeur : [ 32 ** Guediawaye ** Marche Sam ** 10 ** 50 ** 150 **  ] ** 0 ** 0 ** 

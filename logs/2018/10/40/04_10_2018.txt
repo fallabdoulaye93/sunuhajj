@@ -1,0 +1,24 @@
+delete ** sva_souscription_paretenaire ** champ : [ fk_partenaire =  ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_fournisseur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_fournisseur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ date_modification ** user_modification ** label ** fk_type_webservice ** fk_type_interconnexion ** lien ** adresse_ip ** username ** password ** identification ** cle ** token ] valeur : [ 2018-10-04 12:54:57 ** 1 ** April ** 1 ** 3 ** https://www.api-sn.aprilapps.com **  ** NUMHERIT ** wIR50ItbSXUw ** 311f9e8368f470edb94b ** d47aa6470be64485f78f6ff27e633b59d62fcf73087cbeb8f74fbd7aad42f79d2969fa20161045cf705ee3ec44ee8b3860d3 **  ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_api ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+update ** sva_webservice ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$2JN3YwK9deUiN8c3IrZf0utg8s374XbSFo.QjZpqjm2AYj2/MFOyC ** 1538670346 ] ** 0 ** 1 ** 1
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$Henkw7lUBnfB8AeDrJQO4eal6mOAfq/Vh6KZ.Eu0NjkrHlNuvx/3i ** 1538672608 ] ** 0 ** 1 ** 1

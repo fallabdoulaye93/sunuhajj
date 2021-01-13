@@ -1,0 +1,8 @@
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1 ** 1 ** 1 ** 1 ] ** 16 ** 1 ** 1
+insert ** sva_tarif_frais ** champ : [ montant_deb ** montant_fin ** valeur ** fk_service ] valeur : [ 1 ** 2 ** 1 ** 1 ] ** 17 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** 00221775898923 ** 1 ** 1 ** 2018-09-13 10:25:19 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.sn ** 00221775898923 ** 1 ** 1 ** 2018-09-13 10:27:45 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** 00221775898923 ** 1 ** 1 ** 2018-09-13 10:30:47 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** 00221775898924 ** 1 ** 1 ** 2018-09-13 10:30:59 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ prenom ** nom ** email ** telephone ** fk_profil ** admin ** date_modification ] valeur : [ Baye Dame ** Khouma ** dame.khouma@numherit.com ** 00221775898923 ** 1 ** 1 ** 2018-09-13 11:12:05 ] ** 0 ** 1 ** 1
+update ** utilisateur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2018-09-13 11:12:19 ** 1 ** 20180913111235.png ] ** 0 ** 1 ** 1

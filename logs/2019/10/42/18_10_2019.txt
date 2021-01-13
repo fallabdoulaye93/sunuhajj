@@ -1,0 +1,102 @@
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ RC-159 ** Test ** 35 ** 3 ** 20191018102021.jpeg ** 30 ] ** 81 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ RC-159 ** jaune **  ] ** 0 ** 0 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ** date_modification ] valeur : [ RC-159 ** Testdffd ** 3 ** 2019-10-18 10:26:04 ] ** 0 ** 1 ** 41
+update ** categorie ** champ : [ libelle ] valeur : [ Car ] ** 0 ** 1 ** 1
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ RC-159 ** Test ** 4 ] ** 0 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 80 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dk-843 ** Jaune **  ] ** 0 ** 0 ** 41
+update ** bus ** champ : [ matricule ** couleur ** categorie ] valeur : [ dk-843 ** Jaunef ** 1 ] ** 0 ** 1 ** 41
+update ** bus ** champ : [ matricule ** couleur ** places ** categorie ] valeur : [ dk-843 ** Jaunef ** 890 ** 3 ] ** 0 ** 1 ** 41
+insert ** bus ** champ : [ matricule ** couleur ** places ** categorie ** photo ** numGIE ] valeur : [ test ** test ** 10 ** 3 ** 20191018110347.jpeg ** 30 ] ** 82 ** 1 ** 41
+update ** gie ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 1
+insert ** gie ** champ : [ nomgie ** adresse ** email ** telephone ] valeur : [ GIE3 ** Dakar ** gie3@gmail.com ** +22177 ] ** 32 ** 1 ** 1
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test1 ** test1 ** TEST1 ** test@gmail.com ** +22177 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Dialloo ** Saifoulaye ** Pikine ** di@g.com ** +22177 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test ** dfg ** Pikine ** test@gmail.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diallo ** Saifoulaye ** Pikine ** di@g.com ** +22199 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diallo ** Saifoulaye ** keur massar ** diallosaifoulaye545@gmail.com ** +22111 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diallo ** Saifoulaye ** Pikine ** diallosaifoulaye545@gmail.com ** +22144 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test ** test ** Pikine ** test@gmail.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diouf ** Saifoulaye ** Ouakam ** di@g.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test ** test ** Ouakam ** test@gmail.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test ** test ** Ouakam ** test@gmail.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ test ** test ** Ouakam ** test@gmail.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** categorie ** champ : [ libelle ] valeur : [ test ] ** 8 ** 1 ** 41
+delete ** bus ** champ : [ id =  ] valeur : [ 82 ] ** 0 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diallo ** test ** Pikine ** di@g.com ** +2213 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Diallo ** test ** Pikine ** di@g.com ** +2213 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Dialloo ** test ** Pikine ** di@g.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [ Dialloo ** test ** Pikine ** di@g.com ** +22133 ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [  **  **  **  **  ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** ecb51b562089884ca164c867e ] valeur : [  **  **  **  **  ** $2y$10$Cm0ej0NHByp7CElq05ZNyOzF.zeazEXd702A71p0qFPdPvtITURTq ] ** 0 ** 0 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** diallosaifoulaye545@gmail.com ** +22133 ] ** 3 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** +22199 ] ** 4 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ] valeur : [ test p ** test p ** Ouakam ** diallosaifoulaye545@gmail.com ** +22133 ** 20191018150712.jpeg ] ** 5 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakamtttt ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakamtt ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakamf ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test p ** test p ** Ouakam ** Ouakam ** 221331111 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 5 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 3 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 1 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 4 ] ** 0 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** d ** +22177 ** 20191018153731.jpeg ] ** 6 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 6 ] ** 0 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** diallosaifoulaye545@gmail.com ** +22133 ** 20191018153848.jpeg ] ** 7 ** 1 ** 41
+update ** employe ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Saifoulayef ** Diallo ** diallosaifoulaye545@gmail.com ** 22133 ** Ouakam ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** diallosaifoulaye545@gmail.com ** 22133 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-18 15:49:15 ** 41 ** 20191018154956.jpeg ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-18 15:49:56 ** 41 ** 20191018155030.jpeg ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-18 15:50:31 ** 41 ** 20191018155135.jpeg ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-18 15:51:35 ** 41 ** 20191018155148.jpeg ] ** 0 ** 1 ** 41
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** diallosaifoulaye545@gmail.com ** +221773 ** 20191018161509.jpeg ** 30 ] ** 8 ** 1 ** 41
+insert ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ Diallo ** Saifoulaye ** Ouakam ** diallosaifoulaye545@gmail.com ** +22144 ** 20191018163400.jpeg ** 30 ] ** 1 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+insert ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ test ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** +22177 ** 20191018170150.jpeg ** 30 ] ** 2 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test1 ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test1 ** test1 ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test1 ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test1 ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ nom ** prenom ** adresse ** email ** telephone ] valeur : [ test ** test ** Ouakam ** diallosaifoulaye545@gmail.com ** 22177 ] ** 0 ** 1 ** 41
+delete ** employe ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 41
+delete ** receveur ** champ : [ id =  ] valeur : [ 2 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Saifoulayes ** Diallo ** diallosaifoulaye545@gmail.com ** 22144 ** Ouakam ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ prenom ** nom ** email ** telephone ** adresse ] valeur : [ Saifoulaye ** Diallo ** diallosaifoulaye545@gmail.com ** 22144 ** Ouakam ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ date_modification ** user_modification ** photo ] valeur : [ 2019-10-18 17:29:34 ** 41 ** 20191018173116.jpeg ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** receveur ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 41
+update ** employe ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 41

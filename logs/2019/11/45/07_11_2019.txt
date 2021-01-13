@@ -1,0 +1,1 @@
+insert ** employe ** champ : [ nom ** prenom ** adresse ** email ** telephone ** photo ** numGie ] valeur : [ omar ** fall ** guediawaye ** fall@gmail.com ** +221776231475 ** 20191107131317.jpeg ** 30 ] ** 12 ** 1 ** 42

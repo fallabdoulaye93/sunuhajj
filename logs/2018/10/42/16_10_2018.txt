@@ -1,0 +1,17 @@
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$asUdySsqIDJHGzVolR97He3x/c9.Pw7f.FjPjK3PqJSNrO6qTvfpW ** 1539687744 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$.vg2ZSt15GnvG3Gl86CYge8lZc.FAcrwoqK2bw9/.YYPQNmU7ebSm ** 1539689029 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$0LgmqWKGv82.1Q6AV//ljuSt/lDKzYh4pqKYWu5YSN2K1jrfIcjzK ** 1539692158 ] ** 0 ** 1 ** 
+update ** sva_partenaire ** champ : [ token ** expire_token ] valeur : [ $2y$10$C7cn1ICNFB4dzn144DBvReYmWY/3bnap3K1koMkTqqttWWwDz.ikS ** 1539692781 ] ** 0 ** 1 ** 
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ NaN-login-password- ** 3 ** 3 ] ** 25 ** 1 ** 1
+insert ** sva_code_retour ** champ : [ user_creation ** code ** message_fr ** message_en ** fk_webservice ] valeur : [ 1 ** 1003 ** essai ** test ** 1 ] ** 3 ** 1 ** 1
+insert ** sva_code_retour ** champ : [ user_creation ** code ** message_fr ** message_en ] valeur : [ 1 ** 1004 ** un autre essai ** another test ] ** 0 ** 0 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ NaN-login-password-numTransaction- ** 4 **  ] ** 0 ** 0 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ -login-password-numTransact- ** 4 **  ] ** 26 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ -param1-param2- ** 3 ** 3 ] ** 27 ** 1 ** 1
+insert ** sva_service_sunusva ** champ : [ label ** user_creation ** date_creation ** methode ** fk_categorie ** disponibilite ** palier ** commission ] valeur : [ VerificationTelephone ** 1 ** 2018-10-16 16:04:08 ** verifNumTel ** 7 ** 0 ** 0 ** 0 ] ** 7 ** 1 ** 1
+insert ** sva_service_sunusva ** champ : [ label ** user_creation ** date_creation ** methode ** fk_categorie ** disponibilite ** palier ** commission ] valeur : [ Achat Credit ** 1 ** 2018-10-16 16:05:15 ** achatCredit ** 4 ** 0 ** 0 ** 0 ] ** 8 ** 1 ** 1
+insert ** sva_parametre ** champ : [ parametre ** nbre_parametre ** fk_webservice ] valeur : [ NaN-rrr-ddd- ** 3 ** 3 ] ** 28 ** 1 ** 1
+insert ** sva_service_sunusva ** champ : [ label ** user_creation ** date_creation ** methode ** fk_categorie ** disponibilite ** palier ** commission ] valeur : [ Get Villes April ** 1 ** 2018-10-16 16:35:41 ** GetVillesApril ** 6 ** 0 ** 0 ** 0 ] ** 9 ** 1 ** 1
+insert ** sva_webservice ** champ : [ user_creation ** fk_api ** label ] valeur : [ 1 ** 1 ** admin ] ** 5 ** 1 ** 1
+insert ** sva_webservice ** champ : [ user_creation ** fk_api ** label ] valeur : [ 1 ** 1 ** SDE API ] ** 6 ** 1 ** 1
+insert ** sva_code_retour ** champ : [ user_creation ** fk_webservice ** code ** message_fr ** message_en ] valeur : [ 1 ** 2 ** 1004 ** Paiement réussi ** Paiement succesful  ] ** 5 ** 1 ** 1

@@ -1,0 +1,11 @@
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** ligne ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+insert ** trajet ** champ : [ libelle ** numGie ] valeur : [ ligne3 ** 30 ] ** 0 ** 0 ** 42
+insert ** trajet ** champ : [ libelle ** numGie ] valeur : [ ligne6 ** 30 ] ** 0 ** 0 ** 42
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ] valeur : [ 021456 ** 250 ** 15-11-2019 ] ** 0 ** 0 ** 42
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ] valeur : [ 021456 ** 250 ** 09-11-2019 ] ** 0 ** 0 ** 42
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ] valeur : [ 021456 ** 250 ** 09-11-2019 ] ** 0 ** 0 ** 42
+insert ** ticket ** champ : [ num_ticket ** prix ** date_ticket ] valeur : [ 021456 ** 250 ** 14-11-2019 ] ** 0 ** 0 ** 42

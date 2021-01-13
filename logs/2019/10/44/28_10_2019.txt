@@ -1,0 +1,26 @@
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-16 ** 30 ] ** 6 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-10 ** 30 ] ** 7 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 0 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ DK-546 ** Diallo Saifoulaye ** dioum fatou ** Dioum Fatou ** 32 ** 2019-10-25 09:20:19 ** 1 ] ** 0 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-20 ** 30 ] ** 8 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 9 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 10 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 11 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 12 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 13 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 14 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-13 ** 30 ] ** 15 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-30 ** 30 ] ** 16 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 30 ** 30 ** 30 ** 30 ** 30 ** 2019-11-16 ** 30 ] ** 17 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 86 ** 11 ** 9 ** 1 ** 30 ** 2019-11-09 ** 30 ] ** 18 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 83 ** 8 ** 10 ** 4 ** 2 ** 2019-11-15 ** 30 ] ** 19 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ DK-546 ** Diallo Saifoulaye ** mbaye arame ** Dioum Fatou ** 24 ** 2019-11-15 00:00:00 ** 1 ] ** 0 ** 1 ** 42
+update ** trajet ** champ : [ ligne ** lieu_depart ** lieu_arrive ** nombre_section ** ecart_section ** prix_base ] valeur : [  **  **  **  **  **  ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ 86 ** 11 ** 9 ** 4 ** 2 ** 01-11-2019 ** 1 ] ** 0 ** 1 ** 42
+update ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** etat ] valeur : [ 83 ** 11 ** 10 ** 4 ** 2 ** 2019-11-07 ** 1 ] ** 0 ** 1 ** 42
+insert ** voyage ** champ : [ bus_id ** conducteur_id ** receveur_id ** controleur_id ** trajet_id ** date_voyage ** numGie ] valeur : [ 86 ** 8 ** 9 ** 4 ** 1 ** 2019-11-20 ** 30 ] ** 20 ** 1 ** 42
+update ** voyage ** champ : [ etat ] valeur : [ 1 ] ** 0 ** 1 ** 42
