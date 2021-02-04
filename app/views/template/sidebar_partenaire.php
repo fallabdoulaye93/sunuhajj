@@ -14,19 +14,27 @@
         <?php include("profil_user.php"); ?>
         <ul class="nav" id="side-menu">
             <li>
-                <a href="#" class="waves-effect"><i class="mdi mdi-account-multiple fa-fw"></i> <span class="hide-menu"><?php echo $this->lang['gestion_partenaires']; ?><span
-                                class="fa arrow"></span></span></a>
-                <ul class="nav nav-second-level">
+                <a href="#" class="waves-effect"><i class="fa fa-users fa-fw"></i>
+                    <span class="hide-menu"><?php echo $this->lang['listepartenaire']; ?><span class="fa arrow"></span></span></a>
+                <ul class="nav nav-third-level">
 
                     <li>
-                        <a href="<?php echo WEBROOT; ?>partenaire/listePartenaire">
-                            <i data-icon="/" class="linea-icon linea-basic fa-fw"></i>
-                            <span class="hide-menu"><?php echo $this->lang['partenaires']; ?></span>
+                        <a href="<?= WEBROOT; ?>partenaire/monetique">
+                            <i data-icon="/" class="fa fa-credit-card fa-fw"></i>
+                            <span class="hide-menu"><?php echo $this->lang['monetique']; ?></span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="<?= WEBROOT; ?>partenaire/sponsor">
+                            <i data-icon="/" class="fa fa-star-o fa-fw"></i>
+                            <span class="hide-menu"><?php echo $this->lang['sponsor']; ?></span>
                         </a>
                     </li>
 
                 </ul>
             </li>
+
 
         </ul>
     </div>

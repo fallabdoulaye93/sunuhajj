@@ -32,14 +32,14 @@ class MenuController extends BaseController
     }
    public function menu__()
     {
-        $data['nbre'] = $this->menuModels->nbreBus();
+       /* $data['nbre'] = $this->menuModels->nbreBus();
         $data['nbreChauffeur'] = $this->menuModels->nbreChauffeur();
         $data['nbreReceveur'] = $this->menuModels->nbreReceveur();
         $data['nbreControleur'] = $this->menuModels->nbreControleur();
         $data['montant'] = $this->menuModels->getAllTransactionsJournalieres();
         $data['nbreTransaction'] = $this->menuModels->nbreTransactionJour();
-//var_dump($data['montant']);die;
-        $this->views->setData($data);
+//var_dump($data['montant']);die;*/
+        //$this->views->setData($data);
 
         $this->views->getPage('espace/home/menu');
 

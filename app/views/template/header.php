@@ -122,7 +122,7 @@
             <!-- /Logo -->
             <!-- Search input and Toggle icon -->
             <ul class="nav navbar-top-links navbar-left">
-                <li><a href="javascript:void(0)" class="open-close waves-effect waves-light"><i class="ti-menu"></i></a></li>
+                <li><a href="javascript:void(0)" class="open-closeopen-close waves-effect waves-light"><i class="ti-menu"></i></a></li>
                 <?php //require_once (ROOT . 'app/views/notify.php'); ?>
 
             </ul>
@@ -144,7 +144,7 @@
                     <a class="dropdown-toggle profile-pic" data-toggle="dropdown" href="#">
 
                         <img src="<?= ASSETS; ?>pictures/<?php echo $this->_USER->photo ;?>" alt="user-img" width="36" class="img-circle">
-                        <b class="hidden-xs"><?php echo $this->_USER->nom;?></b><span class="caret"></span> </a>
+                        <?php echo $this->lang["connectedas"].' '?> <b class="hidden-xs"><?php echo $this->_USER->prenom.' '. $this->_USER->nom;?></b><span class="caret"></span> </a>
                     <ul class="dropdown-menu dropdown-user animated flipInY">
                         <li>
                             <div class="dw-user-box">

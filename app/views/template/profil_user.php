@@ -25,6 +25,7 @@
             if($this->sidebar=='sidebar_parametrage') echo  '<br>'.$this->lang['parametrage'].'</br>';
             if($this->sidebar=='sidebar_partner') echo  '<br>'.Strtoupper($this->lang['partenaire']).'</br>';
             if($this->sidebar=='sidebar_boutique') echo  '<br>'.Strtoupper($this->lang['btq']).'</br>';
+            if($this->sidebar=='sidebar_tier') echo  '<br>'.Strtoupper($this->lang['gestiers']).'</br>';
 
             ?>
 

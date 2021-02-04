@@ -2,7 +2,7 @@
     <div class="row white-box" style="margin-top:0px; margin-bottom: 4px">
         <div class="col-lg-2 col-sm-6 bg-theme text-white"
              style="height: 40px; vertical-align: middle; padding-top:10px;background-color: #33691e !important;">
-            <center><b>A la une SunuBus</b></center>
+            <center><b>A la une SunuHajj</b></center>
         </div>
         <div class="col-lg-10 col-sm-6 annulation">
             <marquee>
@@ -13,7 +13,7 @@
                     {
                         //if($admin==1 || $this->profil->Acces_module($message['module'], $profil, $groupe, $entite)==1) {
 
-                            echo '<b>'. $message->expediteur.': </b>'.$message->txt_messenger.'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+++---+++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+                            echo '<b>'. $message->expediteur.': </b>'.$message->txt_messenger.'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**************&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
 
                         //}
 

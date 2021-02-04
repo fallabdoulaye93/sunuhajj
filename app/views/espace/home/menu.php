@@ -135,12 +135,44 @@
             <!-- ============================================================== -->
 
             <div class="row">
+                <div STYLE="text-align: center">
+                    <h1 class="big_text2"><b>Bienvenue sur la plateforme SunuHajj</b></h1>
+                </div>
+            </div>
+            <br />
+            <div class="row">
 
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 big_team_grid">
+                    <a href="<?= WEBROOT ?>tier/index">
+                        <div class="big_text text1-big">
+                            <h3><i class="mdi mdi-account-box-outline fa-fw icones-big"></i></h3>
+                            <p><?php echo $this->lang['gestiontier']; ?> <br>_</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 big_team_grid">
+                    <a href="<?= WEBROOT ?>bagages/index">
+                        <div class="big_text text1-big">
+                            <h3><i class="mdi mdi-shopping fa-fw icones-big"></i></h3>
+                            <p><?php echo $this->lang['bagages']; ?> <br>_</p>
+                        </div>
+                    </a>
+                </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 big_team_grid">
                     <a href="<?= WEBROOT ?>administration/index">
                         <div class="big_text text1-big">
-                            <h3><i class="mdi mdi-account-multiple fa-fw icones-big"></i></h3>
-                            <p><?php echo $this->lang['administration']; ?> <br>_</p>
+                            <h3><i class="mdi mdi-plane-shield fa-fw icones-big"></i></h3>
+                            <p><?php echo $this->lang['gestpassport']; ?> <br>_</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="<?= WEBROOT ?>materiels/index">
+                        <div class="big_text text1-big">
+                            <h3><i class="mdi mdi-responsive fa-fw icones-big"></i></h3>
+
+                            <p><?php echo $this->lang['gestion_materiel']; ?> <br> _</p>
                         </div>
                     </a>
                 </div>
@@ -172,25 +204,40 @@
 <!--                    </a>-->
 <!--                </div>-->
 
+
+
+
+            </div>
+            <br /><br />
+            <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <a href="<?= WEBROOT ?>transaction/index">
+                    <a href="<?= WEBROOT ?>partenaire/index">
+                        <div class="big_text text1-big">
+                            <h3><i class="mdi mdi-account-multiple-outline fa-fw icones-big"></i></h3>
+
+                            <p><?php echo $this->lang['gestion_partenaires']; ?> <br> _</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 big_team_grid">
+                    <a href="<?= WEBROOT ?>administration/index">
+                        <div class="big_text text1-big">
+                            <h3><i class="mdi mdi-settings-box fa-fw icones-big"></i></h3>
+                            <p><?php echo $this->lang['administration']; ?> <br>_</p>
+                        </div>
+                    </a>
+                </div>
+
+
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="<?= WEBROOT ?>reporting/index">
                         <div class="big_text text1-big">
                             <h3><i class="mdi mdi-chart-bar fa-fw icones-big"></i></h3>
                             <p><?php echo $this->lang['reporting']; ?> <br> _</p>
                         </div>
                     </a>
                 </div>
-
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                    <a href="<?= WEBROOT ?>client/liste">
-                        <div class="big_text text1-big">
-                            <h3><i class="mdi mdi-account-multiple fa-fw icones-big"></i></h3>
-
-                            <p><?php echo $this->lang['clients']; ?> <br> _</p>
-                        </div>
-                    </a>
-                </div>
-
 
             </div>
             <!-- ============= Blocs du menu ========= -->

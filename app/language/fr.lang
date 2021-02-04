@@ -31,6 +31,7 @@ listevols="Liste des vols"
 listeavions="Liste des avions"
 listesites="Liste des sites"
 listemessages="Liste des messages"
+connectedas="Connecté en tant que"
 messagesaudio="Messages audio"
 messagestexte="Messages texte"
 messagesvideos="Messages video"
@@ -54,10 +55,13 @@ listeguide="Liste des Guides"
 listefamilles="Liste des Familles"
 listeformateurs="Liste des Formateurs"
 listeconseillers="Liste des conseillers"
-bagages="Bagages"
+bagages="Gestion des Bagages"
+gestpassport="Gestion des Passports"
 listebagages="Liste des Bagages"
 monitoringbagage="Monitoring des bagages"
 reclamationbagage="Reclamation"
+gestiers="GESTION TIERS"
+listeagencevoyage="Liste des Agences"
 
 ;Bouton
 btnValider= 'Valider'
@@ -153,7 +157,7 @@ modifProfil= 'Modification de Profil'
 
 
 ;page utilisateur
-ajoutUtilisateur = 'Nouveau Utilisateur'
+ajoutUtilisateur = 'Nouvel Utilisateur'
 labprenom = 'Prenom'
 labnom = 'Nom'
 labemail = 'Adresse email'
@@ -837,7 +841,7 @@ listeResponsable = 'Liste des responsables'
 detailRespo = 'DÉTAILS RESPONSABLE'
 
 
-gestion_materiel = 'Gestion des Materiels et Affectations'
+gestion_materiel = 'Gestion des Materiels'
 typeMateriel = 'Type de Materiels'
 listemateriel = 'Liste des Materiels'
 affectation_materiel = 'Affectation des Materiels'

@@ -1,15 +1,15 @@
 
 /*======================= Agrandissementdes icones ==============*/
 .icones-big {
-    font-size: 60px;
-	color: #ee754e;
+    font-size: 40px;
+	color: #33691e;
 }
 /*======================= Agrandissementdes icones ==============*/
 
 .big_text {
-    background: #fff;
+    background: #ffff;
     border: 1px solid #e0e0e0;
-    padding: 3em 4em;
+    padding: 1em;
     position: relative;
     overflow: hidden;
     z-index: 9;
@@ -17,15 +17,34 @@
 	border-bottom: solid 5px #33691e ;
 /*    box-shadow: 10px -10px 3px 3px rgba(0, 0, 0, 0.25);
 */}
+
 .big_text:hover {
-	color: #FFFFFF;
-	background-color: #33691e;
-	font-size: 17px;
 	border-bottom: solid 5px #EE754F ;
-	transition: 0.5s all;
+	/*transition: 0.5s all;*/
 	bottom: 0;
 }
+.big_text1 {
+	background: #fff;
+	border: 1px solid #e0e0e0;
+	padding: 1em;
+	position: relative;
+	overflow: hidden;
+	z-index: 9;
+	color: #292929;
+	border-bottom: solid 5px #33691e ;
+	/*    box-shadow: 10px -10px 3px 3px rgba(0, 0, 0, 0.25);
+    */}
+.big_text2 {
+	background: #fff;
+	border: 1px dashed #33691e;
+	padding: 1em;
 
+	position: relative;
+	overflow: hidden;
+	z-index: 9;
+	color: #33691e;
+	/*    box-shadow: 10px -10px 3px 3px rgba(0, 0, 0, 0.25);
+    */}
 
 /*============================= Defilement =========================*/
 .sitewidth {
@@ -39,7 +58,7 @@ marquee {
     float: left;
     height: 40px;
     position: absolute;
-	border: 1px solid #234D8C;
+	border: 1px solid #33691e;
 	vertical-align: middle;
 	padding-top: 10px;
 	margin-bottom: 20px;

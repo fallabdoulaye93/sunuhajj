@@ -28,7 +28,7 @@ abstract class Security
         header('X-Frame-Options: DENY'); // FF 3.6.9+ Chrome 4.1+ IE 8+ Safari 4+ Opera 10.5+
         header('Cache-control: private'); // IE 6 FIX
         date_default_timezone_set('Africa/Dakar');
-        ini_set("session.cookie_httponly", 1);
+        //ini_set("session.cookie_httponly", 1);
         if(count($_POST) > 0) $_POST = $this->setSecurite_xss_array($_POST);
     }
 
