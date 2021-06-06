@@ -1,9 +1,0 @@
-vendor
-.editorconfig
-*.log
-*.zip
-.DS_Store
-._*
-.cache
-*.sublime-project
-*.sublime-workspace

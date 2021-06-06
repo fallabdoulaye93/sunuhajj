@@ -22,42 +22,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="PHP" type="php">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/firebase/php-jwt" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/psr7" />
-          <root url="file://$MODULE_DIR$/vendor/jacwright/restserver" />
-          <root url="file://$MODULE_DIR$/vendor/nusoapclient/nusoap" />
-          <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
-          <root url="file://$MODULE_DIR$/vendor/phpoffice/phpspreadsheet" />
-          <root url="file://$MODULE_DIR$/vendor/psr/http-message" />
-          <root url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
-          <root url="file://$MODULE_DIR$/vendor/recaptcha-lib/recaptcha" />
-          <root url="file://$MODULE_DIR$/vendor/spipu/html2pdf" />
-          <root url="file://$MODULE_DIR$/vendor/tecnickcom/tcpdf" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/firebase/php-jwt" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/guzzle" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/promises" />
-          <root url="file://$MODULE_DIR$/vendor/guzzlehttp/psr7" />
-          <root url="file://$MODULE_DIR$/vendor/jacwright/restserver" />
-          <root url="file://$MODULE_DIR$/vendor/nusoapclient/nusoap" />
-          <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
-          <root url="file://$MODULE_DIR$/vendor/phpoffice/phpspreadsheet" />
-          <root url="file://$MODULE_DIR$/vendor/psr/http-message" />
-          <root url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
-          <root url="file://$MODULE_DIR$/vendor/recaptcha-lib/recaptcha" />
-          <root url="file://$MODULE_DIR$/vendor/spipu/html2pdf" />
-          <root url="file://$MODULE_DIR$/vendor/tecnickcom/tcpdf" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>
